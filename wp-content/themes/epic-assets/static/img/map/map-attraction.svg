@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Attraction Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="4.-Desktop-Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.0-Desktop-Location,-Things-to-do" transform="translate(-149.000000, -2616.000000)">
+            <g id="02_Map" transform="translate(0.000000, 2368.000000)">
+                <g id="Attraction" transform="translate(149.000000, 248.000000)">
+                    <g id="Attraction-Icon">
+                        <circle id="Oval" fill="#455D58" cx="32.5" cy="32.5" r="32.5"></circle>
+                        <polygon id="Star" fill="#E1E5E4" fill-rule="nonzero" points="32.5 38.75 25.1526843 42.6127124 26.5558968 34.4313562 20.6117935 28.6372876 28.8263422 27.4436438 32.5 20 36.1736578 27.4436438 44.3882065 28.6372876 38.4441032 34.4313562 39.8473157 42.6127124"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
