@@ -627,7 +627,7 @@
          });
          
       </script>
-      <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
+      <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" defer></script>
       
    </body>
 </html>
