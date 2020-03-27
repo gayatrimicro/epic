@@ -397,7 +397,7 @@ include("../header-base.php");
   
 <script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
 <script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
-<!-- <script src="https://static.triptease.io/paperboy/gpvVDj0ljQ.js?hotelkey=e00cdc836eb7e28d59e736c3227630d1b310dcbd"></script> -->
+
 
   
 <script>

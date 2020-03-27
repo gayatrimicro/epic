@@ -1240,7 +1240,7 @@ document.addEventListener("keyup", e => {
   
   <!-- inject:js -->
 <script src="../wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
-<!-- endinject -->  <script src="../../static.triptease.io/paperboy/gpvVDj0ljQ1a90.js?hotelkey=e00cdc836eb7e28d59e736c3227630d1b310dcbd"></script>
+<!-- endinject -->  
 
   <!-- Sojern WindsurferCRS Master Pixel Tag cp_v1_js, Pixel Version: 1 -->
 <script>

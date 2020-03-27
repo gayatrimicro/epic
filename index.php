@@ -628,7 +628,7 @@
          
       </script>
       <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
-      <script src="../static.triptease.io/paperboy/gpvVDj0ljQ1a90.js?hotelkey=e00cdc836eb7e28d59e736c3227630d1b310dcbd"></script>
+      
    </body>
 </html>
 </div>
