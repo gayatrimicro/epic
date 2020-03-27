@@ -497,8 +497,53 @@ include("../header-base.php");
   
   <!-- inject:js -->
 <script src="../wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
-<!-- endinject -->  
+<!-- endinject -->  <script src="../../static.triptease.io/paperboy/gpvVDj0ljQ1a90.js?hotelkey=e00cdc836eb7e28d59e736c3227630d1b310dcbd"></script>
 
+  <!-- Sojern WindsurferCRS Master Pixel Tag cp_v1_js, Pixel Version: 1 -->
+<script>
+/* Please do not modify the below code. */
+a = WsVars.RateCode.toString();
+if(/[ABCD]/.test(a[1]))
+(function () {
+var params = {
+hpid: WsVars.HotelID, /* Property ID */
+pt: WsVars.Step, /* Page Type - CONVERSION or SEARCH or SHOPPING_CART */
+hd1: WsVars.YYYYMMDD1, /* Check In Date. Format yyyy-mm-dd. Ex: 2015-02-14 */
+hd2: WsVars.YYYYMMDD2, /* Check Out Date. Format yyyy-mm-dd. Ex: 2015-02-14 */
+hc1: "", /* Destination City */
+hs1: "", /* Destination State or Region */
+hpr: WsVars.HotelName, /* Hotel Property */
+hr: WsVars.Rooms, /* Number of Rooms */
+hc: WsVars.RoomType, /* Room type */
+t: parseInt(WsVars.Adults) + parseInt(WsVars.Child1) + parseInt(WsVars.Child2), /* Number of
+Travelers */
+hd: WsVars.Nights, /* Length of Travel in Nights */
+hp: WsVars.Amount, /* Purchase Price */
+hcu: WsVars.Currency, /* Purchase Currency */
+hdc: WsVars.RateCode, /* Rate Code */
+hconfno: WsVars.ResID, /* Confirmation Number */
+l: WsVars.LangCode /* Browser Language */
+};
+try{
+params.hc1 = WsVars.GeoAddr.split(",")[0];
+params.hs1 = WsVars.GeoAddr.split(",")[1];
+}catch(e){}
+switch(params.pt){
+case "2": params.pt = "SEARCH";break;
+case "4": params.pt = "SHOPPING_CART";break;
+case "5": params.pt = "CONVERSION";break;
+}
+var paramsArr = [];
+for(key in params) { paramsArr.push(key + '=' + encodeURIComponent(params[key])) };
+var pl = document.createElement('script');
+pl.type = 'text/javascript';
+pl.async = true;
+pl.src = "https://beacon.sojern.com/pixel/cp/21?f_v=cp_v1_js&p_v=1&" + paramsArr.join('&');
+(document.getElementsByTagName('head')[0] ||
+document.getElementsByTagName('body')[0]).appendChild(pl);
+})();
+</script>
+<!-- End Sojern Tag -->
 </body>
 
 </html>

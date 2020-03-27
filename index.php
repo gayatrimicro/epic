@@ -53,7 +53,7 @@
                            <div>
                               <div class='vimeo js-block' data-block='vimeo-block' data-ready='false'>
                                  <img class='new-images' src='assets/images/center-mobile.jpg' srcset='assets/images/center-mobile.jpg 1200w, assets/images/center-pick.jpg 2400w, ' alt='images' width='1200' height='800'  data-pin-nopin='true' />
-                                 
+                                 <iframe src='https://player.vimeo.com/video/assets/videos/BFP-Humming-Bird.mp4?background=0&amp;autoplay=1&amp;loop=1&amp;autopause=0' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                               </div>
                            </div>
                         </div>
@@ -628,8 +628,7 @@
          
       </script>
       <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
-      <!-- <script src="assets/js/app.js" async></script> -->
-      
+      <script src="../static.triptease.io/paperboy/gpvVDj0ljQ1a90.js?hotelkey=e00cdc836eb7e28d59e736c3227630d1b310dcbd"></script>
    </body>
 </html>
 </div>
