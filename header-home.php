@@ -9,7 +9,7 @@
 
   <div class="site-header__inner flex flex--vert-align">
 
-    <a class="site-header__logo" href="index.php" tabindex="-1" aria-label="Visit Home Page">
+    <a class="site-header__logo" href="http://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
       <img src="assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 

@@ -5,7 +5,6 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>EPIC PHARMACY</title>
-      <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
       <link rel="apple-touch-icon" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <link rel="icon" type="image/png" sizes="32x32" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <link rel="icon" type="image/png" sizes="16x16" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
@@ -628,7 +627,7 @@
          });
          
       </script>
-      
+      <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
       
    </body>
 </html>
