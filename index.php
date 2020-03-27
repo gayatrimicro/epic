@@ -628,7 +628,7 @@
          
       </script>
       <!-- <script src="wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script> -->
-      <script src="assets/js/app.js" async></script>
+      <script src="assets/js/app-1.js" async></script>
       
    </body>
 </html>
