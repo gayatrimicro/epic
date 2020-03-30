@@ -27,7 +27,33 @@
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Specialties</title>
+
+<title>Specialties | Epic Pharmacy</title>
+
+<meta name="description" content="Medical store near you with specialty medicine for diseases. Call 888-688-0054 for home delivery." >
+
+<meta name="keywords" content="">
+
+
+<meta property="og:locale" content="en_US">
+<meta name="og:site_name" content="Epic Pharmacy"/>
+<meta property="og:type" content="Website">
+<meta property="og:title" content="Specialties | Epic Pharmacy">
+<meta property="og:description" content="Medical store near you with specialty medicine for diseases. Call 888-688-0054 for home delivery.">
+<meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+<meta property="og:url" content="http://epicpharmacyokc.com/specialties/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Specialties | Epic Pharmacy">
+<meta name="twitter:description" content="Medical store near you with specialty medicine for diseases. Call 888-688-0054 for home delivery.">
+<meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+<meta name="twitter:url" content="http://epicpharmacyokc.com/specialties/">
+
+<meta name="robots" content="index, follow" />
+
+<link rel="canonical" href="http://epicpharmacyokc.com/specialties/">
+<link rel="alternate" href="http://epicpharmacyokc.com/specialties/" hreflang="en-us" />
+
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
@@ -41,19 +67,7 @@
 
   <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  
 
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 
@@ -532,7 +546,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../asthama' target='_self'>            
+          <a href='../asthma' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1asthma.jpg' data-srcset='../assets/images/1asthma.jpg 750w, ../assets/images/1asthma.jpg 1200w, ' alt="Asthma Allergy" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -549,7 +563,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../asthama' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='../asthma' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>

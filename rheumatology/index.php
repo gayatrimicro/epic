@@ -28,7 +28,32 @@
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Rheumatology</title>
+  
+<title>Rheumatoid Arthritis Medication | Epic Pharmacy</title>
+
+<meta name="description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free." >
+
+<meta name="keywords" content="Order RA drugs online, NSAIDs for rheumatoid arthritis, DMARDs for rheumatoid arthritis, drugs for treatment of RA, plaquenil, arava, trexall, azulfidine, minocin, order rheumatoid arthritis medication online">
+
+
+<meta property="og:locale" content="en_US">
+<meta name="og:site_name" content="Epic Pharmacy"/>
+<meta property="og:type" content="Website">
+<meta property="og:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
+<meta property="og:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+<meta property="og:image" content="">
+<meta property="og:url" content="http://epicpharmacyokc.com/rheumatology/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
+<meta name="twitter:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+<meta name="twitter:image" content="">
+<meta name="twitter:url" content="http://epicpharmacyokc.com/rheumatology/">
+
+<meta name="robots" content="index, follow" />
+
+<link rel="canonical" href="http://epicpharmacyokc.com/rheumatology/">
+<link rel="alternate" href="http://epicpharmacyokc.com/rheumatology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
@@ -42,19 +67,7 @@
 
   <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  
 
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 

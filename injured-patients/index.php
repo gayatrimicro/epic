@@ -10,7 +10,32 @@
 
 
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Injured Patients</title>
+  
+  <title>Drugstore For Injured Patients | Epic Pharmacy</title>
+
+  <meta name="description" content="Ask a pharmacist for medicine for your personal injury. Lowest prices and discounts on medications" >
+
+  <meta name="keywords" content="buy generic drugs online, injury medication online, no 1 online pharmacy, online instant medicine delivery,  buy meds without prescription">
+
+
+  <meta property="og:locale" content="en_US">
+  <meta name="og:site_name" content="Epic Pharmacy"/>
+  <meta property="og:type" content="Website">
+  <meta property="og:title" content="Drugstore For Injured Patients | Epic Pharmacy">
+  <meta property="og:description" content="Ask a pharmacist for medicine for your personal injury. Lowest prices and discounts on medications">
+  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="http://epicpharmacyokc.com/injured-patients/">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Drugstore For Injured Patients | Epic Pharmacy">
+  <meta name="twitter:description" content="Ask a pharmacist for medicine for your personal injury. Lowest prices and discounts on medications">
+  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="http://epicpharmacyokc.com/injured-patients/">
+
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="http://epicpharmacyokc.com/injured-patients/">
+  <link rel="alternate" href="http://epicpharmacyokc.com/injured-patients/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
@@ -24,19 +49,6 @@
 
   <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  
-
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 

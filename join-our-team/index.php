@@ -10,8 +10,33 @@
 
 
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Join Our Team</title>
+  
+  <title>Careers @ Epic Pharmacy</title>
 
+  <meta name="description" content="Email us epicrx@epicpharmacyokc.com to join our team of pharmacists and chemists dedicated to healthcare." >
+
+  <meta name="keywords" content="join us, pharmacist jobs near me, oklahoma chemists jobs, healthcare jobs in my area, pharmaceutical drugs, online pharmacy, best internet pharmacy">
+
+
+  <meta property="og:locale" content="en_US">
+  <meta name="og:site_name" content="Epic Pharmacy"/>
+  <meta property="og:type" content="Website">
+  <meta property="og:title" content="Careers @ Epic Pharmacy">
+  <meta property="og:description" content="Email us epicrx@epicpharmacyokc.com to join our team of pharmacists and chemists dedicated to healthcare.">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="http://epicpharmacyokc.com/join-our-team/">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Careers @ Epic Pharmacy">
+  <meta name="twitter:description" content="Email us epicrx@epicpharmacyokc.com to join our team of pharmacists and chemists dedicated to healthcare.">
+  <meta name="twitter:image" content="">
+  <meta name="twitter:url" content="http://epicpharmacyokc.com/join-our-team/">
+
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="http://epicpharmacyokc.com/join-our-team/">
+  <link rel="alternate" href="http://epicpharmacyokc.com/join-our-team/" hreflang="en-us" />
+  
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
@@ -25,18 +50,6 @@
   <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   
-
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 

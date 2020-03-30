@@ -32,7 +32,7 @@
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Asthma Allergy</title>
+  <title>Epic Pharmacy | Hepatitis</title>
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

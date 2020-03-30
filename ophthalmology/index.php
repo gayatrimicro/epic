@@ -32,7 +32,32 @@
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Ophthalmology Specialty Medications</title>
+  
+  <title>Opthalmology Drugs | Epic Pharmacy</title>
+
+  <meta name="description" content="Order Opthalmic Preparations & anti-infectives online. Call 888-688-0054 toll-free." >
+
+  <meta name="keywords" content="Acthar, Bevacizumab, Cefazolin online order from pharmacy near me, treatment for opthalmic diseases, sterile eye drops, customized injectables for opthalmic treatment, alcaine, pontocaine drops">
+
+
+  <meta property="og:locale" content="en_US">
+  <meta name="og:site_name" content="Epic Pharmacy"/>
+  <meta property="og:type" content="Website">
+  <meta property="og:title" content="Opthalmology Drugs | Epic Pharmacy">
+  <meta property="og:description" content="Order Opthalmic Preparations & anti-infectives online. Call 888-688-0054 toll-free.">
+  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="http://epicpharmacyokc.com/ophthalmology/">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Opthalmology Drugs | Epic Pharmacy">
+  <meta name="twitter:description" content="Order Opthalmic Preparations & anti-infectives online. Call 888-688-0054 toll-free.">
+  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="http://epicpharmacyokc.com/ophthalmology/">
+
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="http://epicpharmacyokc.com/ophthalmology/">
+  <link rel="alternate" href="http://epicpharmacyokc.com/ophthalmology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
@@ -46,19 +71,7 @@
 
   <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  
 
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 

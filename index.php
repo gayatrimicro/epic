@@ -4,7 +4,33 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>EPIC PHARMACY</title>
+      <title>Online Drugstore | Epic Pharmacy</title>
+
+      <meta name="description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me" >
+
+      <meta name="keywords" content="online medical store, online pharmacy near me, oklahoma online drugstore, medicine shopping online, buy medicines online with dicount, refill prescriptions online">
+
+
+      <meta property="og:locale" content="en_US">
+      <meta name="og:site_name" content="Epic Pharmacy"/>
+      <meta property="og:type" content="Website">
+      <meta property="og:title" content="Online Drugstore | Epic Pharmacy">
+      <meta property="og:description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me">
+      <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+      <meta property="og:url" content="http://epicpharmacyokc.com/">
+
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:title" content="Online Drugstore | Epic Pharmacy">
+      <meta name="twitter:description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me">
+      <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+      <meta name="twitter:url" content="http://epicpharmacyokc.com/">
+
+      <meta name="robots" content="index, follow" />
+
+      <link rel="canonical" href="http://epicpharmacyokc.com/">
+      <link rel="alternate" href="http://epicpharmacyokc.com/" hreflang="en-us" />
+
+
       <link rel="apple-touch-icon" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <link rel="icon" type="image/png" sizes="32x32" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <link rel="icon" type="image/png" sizes="16x16" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
@@ -13,7 +39,7 @@
       <link rel="shortcut icon" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <meta name="msapplication-TileColor" content="#ffb7ae">
       <meta name="theme-color" content="#ffffff">
-      <meta name="description" content="Epic pharmacy"/>
+      <!-- <meta name="description" content="Epic pharmacy"/>
       <link rel="canonical" href="javascript:void(0);" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
@@ -23,7 +49,7 @@
       <meta property="og:site_name" content="Epic pharmacy" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:description" content="Epic pharmacy" />
-      <meta name="twitter:title" content="Epic pharmacy" />
+      <meta name="twitter:title" content="Epic pharmacy" /> -->
       <meta name="msvalidate.01" content="C4FEF2405E1B8CD1F28AA1A7020B5E1D" />
       <link rel='dns-prefetch' href='http://s.w.org/' />
       <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
