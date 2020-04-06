@@ -161,6 +161,48 @@ ol li, ul li {
 <!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
 <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 
+	<!--json schema -->
+	<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "Store",
+		  "name": "Oklahoma's online Epic Pharmacy",
+		  "description": "Contact Oklahoma's online Epic Pharmacy to refill prescriptions. Find internet pharmacy for delivery near me",
+		  "openingHours": "Mo-Fr 09:00am - 06:00pm Sat 09:00am - 06:00pm",
+		  "telephone": "888-688-0054",
+		  "image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+		  "priceRange": "$0",
+		  "address":
+		  {
+		  "@type": "PostalAddress",
+		  "streetAddress": "2249 NW 39th Street",
+		  "addressLocality": "Oklahoma City",
+		  "addressRegion": "OK",
+		  "postalCode": "73112",
+		  "addressCountry": "USA"
+		  },
+		  "department":
+		  {
+			"@type": "Pharmacy",
+			"name": "Epic Pharmacy",
+			"description": "Leading suppliers of pharmacy services and specialty medications. Buy medicines online with a discount on prescription drugs",
+			"openingHours": "Mo-Fr 09:00am -06:00pm Sat 09:00am -06:00pm",
+			"telephone": "888-688-0054",
+			"image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+			"priceRange": "$0",
+			"address":
+			{
+			  "@type": "PostalAddress",
+			  "streetAddress": "2249 NW 39th Street",
+			  "addressLocality": "Oklahoma City",
+			  "addressRegion": "OK",
+			  "postalCode": "73112",
+			  "addressCountry": "USA"
+			}
+		  }
+		}
+	</script>
+	<!--json schema -->
 
 </head>
 

@@ -2,14 +2,14 @@
 <html class="no-js" lang="en-US">
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
    <head>
-
-      <!-- Google Tag Manager -->
+	   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZLPRNC');</script>
-
+<!-- End Google Tag Manager -->
+	   
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Online Drugstore | Epic Pharmacy</title>
@@ -47,17 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <link rel="shortcut icon" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
       <meta name="msapplication-TileColor" content="#ffb7ae">
       <meta name="theme-color" content="#ffffff">
-      <!-- <meta name="description" content="Epic pharmacy"/>
-      <link rel="canonical" href="javascript:void(0);" />
-      <meta property="og:locale" content="en_US" />
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="Epic pharmacy" />
-      <meta property="og:description" content="Epic pharmacy" />
-      <meta property="og:url" content="http://www.epicpharmacy.com/" />
-      <meta property="og:site_name" content="Epic pharmacy" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:description" content="Epic pharmacy" />
-      <meta name="twitter:title" content="Epic pharmacy" /> -->
+     
       <meta name="msvalidate.01" content="C4FEF2405E1B8CD1F28AA1A7020B5E1D" />
       <link rel='dns-prefetch' href='http://s.w.org/' />
       <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
@@ -68,14 +58,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <link rel="stylesheet" href="wp-content/themes/epic-assets/static/css/style-5997a7ee39.css">
       <link rel="stylesheet" href="assets/css/main.css">
       <!-- endinject -->
+	   
+	   <!--json schema -->
+	<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "Store",
+		  "name": "Oklahoma's online Epic Pharmacy",
+		  "description": "Contact Oklahoma's online Epic Pharmacy to refill prescriptions. Find internet pharmacy for delivery near me",
+		  "openingHours": "Mo-Fr 09:00am - 06:00pm Sat 09:00am - 06:00pm",
+		  "telephone": "888-688-0054",
+		  "image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+		  "priceRange": "$0",
+		  "address":
+		  {
+		  "@type": "PostalAddress",
+		  "streetAddress": "2249 NW 39th Street",
+		  "addressLocality": "Oklahoma City",
+		  "addressRegion": "OK",
+		  "postalCode": "73112",
+		  "addressCountry": "USA"
+		  },
+		  "department":
+		  {
+			"@type": "Pharmacy",
+			"name": "Epic Pharmacy",
+			"description": "Leading suppliers of pharmacy services and specialty medications. Buy medicines online with a discount on prescription drugs",
+			"openingHours": "Mo-Fr 09:00am -06:00pm Sat 09:00am -06:00pm",
+			"telephone": "888-688-0054",
+			"image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+			"priceRange": "$0",
+			"address":
+			{
+			  "@type": "PostalAddress",
+			  "streetAddress": "2249 NW 39th Street",
+			  "addressLocality": "Oklahoma City",
+			  "addressRegion": "OK",
+			  "postalCode": "73112",
+			  "addressCountry": "USA"
+			}
+		  }
+		}
+	</script>
+	<!--json schema -->
+	   
    </head>
    <body class="home page-template-default page page-id-6" data-load="false" data-menu="false" data-reservation="false" data-scrolled="false">
-
-      <!-- Google Tag Manager (noscript) -->
+	   
+	   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLPRNC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
+	   
       <?php
          include("header-home.php");
          ?>
