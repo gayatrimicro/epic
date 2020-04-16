@@ -57,6 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- inject:css -->
       <link rel="stylesheet" href="wp-content/themes/epic-assets/static/css/style-5997a7ee39.css">
       <link rel="stylesheet" href="assets/css/main.css">
+       <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">
       <!-- endinject -->
 	   
 	   <!--json schema -->
