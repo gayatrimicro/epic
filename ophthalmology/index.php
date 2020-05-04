@@ -54,19 +54,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="Opthalmology Drugs | Epic Pharmacy">
   <meta property="og:description" content="Order Opthalmic Preparations & anti-infectives online. Call 888-688-0054 toll-free.">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/ophthalmology/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/ophthalmology/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Opthalmology Drugs | Epic Pharmacy">
   <meta name="twitter:description" content="Order Opthalmic Preparations & anti-infectives online. Call 888-688-0054 toll-free.">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/ophthalmology/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/ophthalmology/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/ophthalmology/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/ophthalmology/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/ophthalmology/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/ophthalmology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

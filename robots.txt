@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: http://epicpharmacyokc.com/sitemap.xml
+sitemap: https://epicpharmacyokc.com/sitemap.xml

@@ -53,19 +53,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="Non-sterile Compounding Products | Epic Pharmacy">
   <meta property="og:description" content="Call 888-688-0054 toll-free to order non-sterile compounding medication in Oklahoma">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/non-sterile-compounding/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/non-sterile-compounding/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Non-sterile Compounding Products | Epic Pharmacy">
   <meta name="twitter:description" content="Call 888-688-0054 toll-free to order non-sterile compounding medication in Oklahoma">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/non-sterile-compounding/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/non-sterile-compounding/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/non-sterile-compounding/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/non-sterile-compounding/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/non-sterile-compounding/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/non-sterile-compounding/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

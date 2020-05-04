@@ -53,19 +53,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="About Us | Epic Pharmacy">
   <meta property="og:description" content="Buy medicines online with dicount on presciption drugs. Medicine delivery to your home.">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/about-us/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/about-us/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="About Us | Epic Pharmacy">
   <meta name="twitter:description" content="Buy medicines online with dicount on presciption drugs. Medicine delivery to your home.">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/about-us/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/about-us/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/about-us/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/about-us/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/about-us/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/about-us/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

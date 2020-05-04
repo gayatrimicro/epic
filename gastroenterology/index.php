@@ -53,19 +53,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="Gastrointestinal Medications | Epic Pharmacy">
   <meta property="og:description" content="Drugs for treatment of GI disorders available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/gastroenterology/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/gastroenterology/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Gastrointestinal Medications | Epic Pharmacy">
   <meta name="twitter:description" content="Drugs for treatment of GI disorders available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/gastroenterology/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/gastroenterology/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/gastroenterology/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/gastroenterology/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/gastroenterology/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/gastroenterology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

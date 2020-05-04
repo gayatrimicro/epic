@@ -33,18 +33,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:title" content="Careers @ Epic Pharmacy">
   <meta property="og:description" content="Email us epicrx@epicpharmacyokc.com to join our team of pharmacists and chemists dedicated to healthcare.">
   <meta property="og:image" content="">
-  <meta property="og:url" content="http://epicpharmacyokc.com/join-our-team/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/join-our-team/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Careers @ Epic Pharmacy">
   <meta name="twitter:description" content="Email us epicrx@epicpharmacyokc.com to join our team of pharmacists and chemists dedicated to healthcare.">
   <meta name="twitter:image" content="">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/join-our-team/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/join-our-team/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/join-our-team/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/join-our-team/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/join-our-team/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/join-our-team/" hreflang="en-us" />
   
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

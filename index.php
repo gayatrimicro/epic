@@ -24,19 +24,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <meta property="og:type" content="Website">
       <meta property="og:title" content="Online Drugstore | Epic Pharmacy">
       <meta property="og:description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me">
-      <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-      <meta property="og:url" content="http://epicpharmacyokc.com/">
+      <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+      <meta property="og:url" content="https://epicpharmacyokc.com/">
 
       <meta name="twitter:card" content="summary">
       <meta name="twitter:title" content="Online Drugstore | Epic Pharmacy">
       <meta name="twitter:description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me">
-      <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-      <meta name="twitter:url" content="http://epicpharmacyokc.com/">
+      <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+      <meta name="twitter:url" content="https://epicpharmacyokc.com/">
 
       <meta name="robots" content="index, follow" />
 
-      <link rel="canonical" href="http://epicpharmacyokc.com/">
-      <link rel="alternate" href="http://epicpharmacyokc.com/" hreflang="en-us" />
+      <link rel="canonical" href="https://epicpharmacyokc.com/">
+      <link rel="alternate" href="https://epicpharmacyokc.com/" hreflang="en-us" />
 
 
       <link rel="apple-touch-icon" href="wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">

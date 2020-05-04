@@ -55,18 +55,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
   <meta property="og:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
   <meta property="og:image" content="">
-  <meta property="og:url" content="http://epicpharmacyokc.com/oncology/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/oncology/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
   <meta name="twitter:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
   <meta name="twitter:image" content="">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/oncology/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/oncology/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/oncology/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/oncology/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/oncology/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/oncology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

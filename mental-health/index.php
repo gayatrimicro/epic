@@ -30,19 +30,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="Mental Health Medication Online | Epic Pharmacy">
   <meta property="og:description" content="Order drugs that treat mental illness from Epic Pharmacy online. Anti-depressants, anti-anxiety & psychotropic medications">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/mental-health/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/mental-health/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Mental Health Medication Online | Epic Pharmacy">
   <meta name="twitter:description" content="Order drugs that treat mental illness from Epic Pharmacy online. Anti-depressants, anti-anxiety & psychotropic medications">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/mental-health/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/mental-health/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/mental-health/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/mental-health/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/mental-health/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/mental-health/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

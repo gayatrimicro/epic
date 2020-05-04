@@ -31,19 +31,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:type" content="Website">
   <meta property="og:title" content="Drugstore For Injured Patients | Epic Pharmacy">
   <meta property="og:description" content="Ask a pharmacist for medicine for your personal injury. Lowest prices and discounts on medications">
-  <meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="http://epicpharmacyokc.com/injured-patients/">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/injured-patients/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Drugstore For Injured Patients | Epic Pharmacy">
   <meta name="twitter:description" content="Ask a pharmacist for medicine for your personal injury. Lowest prices and discounts on medications">
-  <meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/injured-patients/">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/injured-patients/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/injured-patients/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/injured-patients/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/injured-patients/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/injured-patients/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

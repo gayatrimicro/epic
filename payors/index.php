@@ -55,18 +55,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:title" content="Specialty Franchisees | Epic Pharmacy">
   <meta property="og:description" content="Medicine Store Franchisee with Epic Pharmacy | Open your own internet pharmacy in the US">
   <meta property="og:image" content="">
-  <meta property="og:url" content="http://epicpharmacyokc.com/payors/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/payors/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Specialty Franchisees | Epic Pharmacy">
   <meta name="twitter:description" content="Medicine Store Franchisee with Epic Pharmacy | Open your own internet pharmacy in the US">
   <meta name="twitter:image" content="">
-  <meta name="twitter:url" content="http://epicpharmacyokc.com/payors/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/payors/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="http://epicpharmacyokc.com/payors/">
-  <link rel="alternate" href="http://epicpharmacyokc.com/payors/" hreflang="en-us" /> 
+  <link rel="canonical" href="https://epicpharmacyokc.com/payors/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/payors/" hreflang="en-us" /> 
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

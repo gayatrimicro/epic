@@ -49,19 +49,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="Website">
 <meta property="og:title" content="Specialties | Epic Pharmacy">
 <meta property="og:description" content="Medical store near you with specialty medicine for diseases. Call 888-688-0054 for home delivery.">
-<meta property="og:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-<meta property="og:url" content="http://epicpharmacyokc.com/specialties/">
+<meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+<meta property="og:url" content="https://epicpharmacyokc.com/specialties/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Specialties | Epic Pharmacy">
 <meta name="twitter:description" content="Medical store near you with specialty medicine for diseases. Call 888-688-0054 for home delivery.">
-<meta name="twitter:image" content="http://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-<meta name="twitter:url" content="http://epicpharmacyokc.com/specialties/">
+<meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+<meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/">
 
 <meta name="robots" content="index, follow" />
 
-<link rel="canonical" href="http://epicpharmacyokc.com/specialties/">
-<link rel="alternate" href="http://epicpharmacyokc.com/specialties/" hreflang="en-us" />
+<link rel="canonical" href="https://epicpharmacyokc.com/specialties/">
+<link rel="alternate" href="https://epicpharmacyokc.com/specialties/" hreflang="en-us" />
 
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">

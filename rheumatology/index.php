@@ -49,18 +49,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
 <meta property="og:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
 <meta property="og:image" content="">
-<meta property="og:url" content="http://epicpharmacyokc.com/rheumatology/">
+<meta property="og:url" content="https://epicpharmacyokc.com/rheumatology/">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
 <meta name="twitter:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
 <meta name="twitter:image" content="">
-<meta name="twitter:url" content="http://epicpharmacyokc.com/rheumatology/">
+<meta name="twitter:url" content="https://epicpharmacyokc.com/rheumatology/">
 
 <meta name="robots" content="index, follow" />
 
-<link rel="canonical" href="http://epicpharmacyokc.com/rheumatology/">
-<link rel="alternate" href="http://epicpharmacyokc.com/rheumatology/" hreflang="en-us" />
+<link rel="canonical" href="https://epicpharmacyokc.com/rheumatology/">
+<link rel="alternate" href="https://epicpharmacyokc.com/rheumatology/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 

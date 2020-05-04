@@ -9,7 +9,7 @@
 
   <div class="site-header__inner flex flex--vert-align">
 
-    <a class="site-header__logo" href="http://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
+    <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
       <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
@@ -77,7 +77,7 @@
 
   <div class="site-header__inner flex flex--vert-align">
 
-    <a class="site-header__logo" href="http://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
+    <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
       <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.6 12.96">
   <g>
@@ -93,7 +93,7 @@
 </svg>
     </a>
 
-    <a href="http://epicpharmacyokc.com/" class="site-header__rooms-link" tabindex="-1">
+    <a href="https://epicpharmacyokc.com/" class="site-header__rooms-link" tabindex="-1">
       <div class="site-header__rooms-link-icon">
         <div><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
    viewBox="0 0 45 14" xml:space="preserve">
@@ -191,7 +191,7 @@
 
   <div class="container site-menu__container">
 
-    <a href="http://epicpharmacyokc.com/" class="menu-click-trigger-skip" title="Skip Navigation" aria-label="Skip Navigation" target="_self">Skip Navigation</a>
+    <a href="https://epicpharmacyokc.com/" class="menu-click-trigger-skip" title="Skip Navigation" aria-label="Skip Navigation" target="_self">Skip Navigation</a>
 
     <nav class="site-menu__nav">
       <div class="cols">
@@ -318,7 +318,7 @@
 
   <div class="site-header__inner flex flex--vert-align">
 
-    <a class="site-header__logo" href="http://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
+    <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
       <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
@@ -566,7 +566,7 @@
 
   <div class="site-header__inner flex flex--vert-align">
 
-    <a class="site-header__logo" href="http://epicpharmacyokc.com/" tabindex="1" aria-label="Visit Home Page">
+    <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="1" aria-label="Visit Home Page">
       <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
