@@ -288,9 +288,14 @@
           <p class="caption"><a href="javascript:void(0);">Contact Us</a></p>
 
 
-          <p>Phone: <a href="tel:405-724-7852">405-724-7852</a> <br/>
+          <style type="text/css">
+  .site-menu-contact a:after {
+    background-color: #fff0 !important;
+}
+</style>
+          <p class="site-menu-contact">Phone: <a href="tel:405-724-7852" style="text-decoration: none;">405-724-7852</a> <br/>
             Fax: 405-724-7853<br/>
-            Email: <a href="mailto:epicrx@epicpharmacyokc.com">epicrx@epicpharmacyokc.com</a>
+            Email: <a href="mailto:epicrx@epicpharmacyokc.com" style="text-decoration: none;">epicrx@epicpharmacyokc.com</a>
 
           </p>
 
