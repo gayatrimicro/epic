@@ -103,7 +103,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     height: auto;
 }
 .caption {
-    color: #0074bc !important;
+    color: #47a748 !important;
 }
 .site-header__reservations-list svg {
     display: inline-block;

@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <meta name="description" content="Contact Oklahoma online pharmacy to refill prescriptions. Find internet pharmacy for delivery near me" >
 
       <meta name="keywords" content="online medical store, online pharmacy near me, oklahoma online drugstore, medicine shopping online, buy medicines online with dicount, refill prescriptions online">
-
+      <meta name="ahrefs-site-verification" content="ff80189ce4440095e8e7382669914cf010bdeb0d9cb22b13ae0691afa6056dfd">
 
       <meta property="og:locale" content="en_US">
       <meta name="og:site_name" content="Epic Pharmacy"/>
@@ -496,7 +496,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </h2>
                         </div>
                         <!-- Need a Refill? -->
-                        <a href='javascript:void(0);' role='link' aria-label='Learn More' class='button js-block' data-block='button-block'  target='_self' >
+                        <a href='tel:888-688-0054' role='link' aria-label='Learn More' class='button js-block' data-block='button-block'  target='_self' >
                            <span>
                               <span>8</span><span>8</span><span>8</span><span>6</span><span>8</span><!-- <span> </span> --><span>8</span><span>0</span><span>0</span><span>5</span><span>4</span>
                            </span>
