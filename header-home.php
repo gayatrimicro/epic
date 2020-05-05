@@ -288,8 +288,8 @@
           <p class="caption"><a href="javascript:void(0);">Contact Us</a></p>
 
 <style type="text/css">
-  .site-menu-contact a:after {
-    background-color: #fff0 !important;
+  .site-menu-contact a:after, .site-menu-contact a:before {
+    background-color: #fff0 !important;display: none;
 }
 .site-menu-contact{
   margin-top: 2.3rem !important;
