@@ -1,5 +1,5 @@
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../assets/js/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="/assets/js/jquery.validate.min.js"></script>
 
 
 <div class="fixed-header">
@@ -10,7 +10,7 @@
   <div class="site-header__inner flex flex--vert-align">
 
     <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
-      <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
+      <img src="/assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
     <a href="#" class="site-header__rooms-link" tabindex="-1">
@@ -78,7 +78,7 @@
   <div class="site-header__inner flex flex--vert-align">
 
     <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
-      <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
+      <img src="/assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.6 12.96">
   <g>
     <path d="M5.14,2.2V12.75H3.08V2.2H.35L0,.21H8.23l-.35,2Z" />
@@ -199,31 +199,31 @@
         <ul class='col m12 tp6 t5 d4 c3 site-menu__menu-col desk-block' style="visibility: hidden;">
           <li>
             <span class='caption'>01</span>
-            <a href='../about-us/' class='h3'>About </a>
+            <a href='/about-us/' class='h3'>About </a>
           </li>
           <li>
             <span class='caption'>02</span>
-            <a href='../specialties/' class='h3'>Specialties</a>
+            <a href='/specialties/' class='h3'>Specialties</a>
           </li>
           <li>
             <span class='caption'>03</span>
-            <a href='../injured-patients/' class='h3'>Injured Patients</a>
+            <a href='/injured-patients/' class='h3'>Injured Patients</a>
           </li>
             <li>
               <span class='caption'>04</span>
-            <a href='../services/' class='h3'>Services</a>
+            <a href='/services/' class='h3'>Services</a>
           </li>
             <li>
               <span class='caption'>05</span>
-            <a href='../join-our-team/' class='h3'>Join Our Team</a>
+            <a href='/join-our-team/' class='h3'>Join Our Team</a>
           </li>
            <li>
               <span class='caption'>06</span>
-            <a href='../pharma/' class='h3'>Pharma</a>
+            <a href='/pharma/' class='h3'>Pharma</a>
           </li>
             <li>
               <span class='caption'>07</span>
-            <a href='../payors/' class='h3'>Payors</a>
+            <a href='/payors/' class='h3'>Payors</a>
           </li>
                   </ul>
 
@@ -235,31 +235,31 @@
           <ul class='col m12 tp6 t5 d4 c3 site-menu__menu-col'>
             <li>
               <span class='caption'>01</span>
-              <a href='../about-us/' class='h3'>About </a>
+              <a href='/about-us/' class='h3'>About </a>
             </li>
               <li>
                 <span class='caption'>02</span>
-              <a href='../specialties/' class='h3'>Specialties</a>
+              <a href='/specialties/' class='h3'>Specialties</a>
             </li>
               <li>
                 <span class='caption'>03</span>
-              <a href='../injured-patients/' class='h3'>Injured Patients</a>
+              <a href='/injured-patients/' class='h3'>Injured Patients</a>
             </li>
               <li>
                 <span class='caption'>04</span>
-              <a href='../services/' class='h3'>Services</a>
+              <a href='/services/' class='h3'>Services</a>
             </li>
               <li>
                 <span class='caption'>05</span>
-              <a href='../join-our-team/' class='h3'>Join Our Team</a>
+              <a href='/join-our-team/' class='h3'>Join Our Team</a>
             </li>
              <li>
                 <span class='caption'>06</span>
-              <a href='../pharma/' class='h3'>Pharma</a>
+              <a href='/pharma/' class='h3'>Pharma</a>
             </li>
               <li>
                 <span class='caption'>05</span>
-              <a href='../payors/' class='h3'>Payors</a>
+              <a href='/payors/' class='h3'>Payors</a>
             </li>
                   </ul>
 
@@ -327,7 +327,7 @@
   <div class="site-header__inner flex flex--vert-align">
 
     <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="-1" aria-label="Visit Home Page">
-      <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
+      <img src="/assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
     <a href="#" class="site-header__rooms-link" tabindex="-1">
@@ -575,7 +575,7 @@
   <div class="site-header__inner flex flex--vert-align">
 
     <a class="site-header__logo" href="https://epicpharmacyokc.com/" tabindex="1" aria-label="Visit Home Page">
-      <img src="../assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
+      <img src="/assets/images/Epic-Logo.png" class="custom-site-header" alt="images failed to load, Error"/>
     </a>
 
     <a href="#" class="site-header__rooms-link" tabindex="2">
@@ -992,7 +992,7 @@ form{
         if ($('#firstname').val() != "" && $('#lastname').val() != "" && $('#email').val() != "" && $('#phone').val() != "" && $('#text_area').val() != "" ) {
               
                $.ajax({
-                                url:'../request.php',
+                                url:'/request.php',
                                 type:'POST',
                                 data:formdata,
                                 success:function(result){
@@ -1093,36 +1093,3 @@ form{
 
 <!-- modal popup ends !-->
 
-<script type="text/javascript">
-  
-const openEls = document.querySelectorAll("[data-open]");
-const closeEls = document.querySelectorAll("[data-close]");
-const isVisible = "is-visible";
-
-for (const el of openEls) {
-  el.addEventListener("click", function() {
-    const modalId = this.dataset.open;
-    document.getElementById(modalId).classList.add(isVisible);
-  });
-}
-
-for (const el of closeEls) {
-  el.addEventListener("click", function() {
-    this.parentElement.parentElement.parentElement.classList.remove(isVisible);
-  });
-}
-
-document.addEventListener("click", e => {
-  if (e.target == document.querySelector(".modal.is-visible")) {
-    document.querySelector(".modal.is-visible").classList.remove(isVisible);
-  }
-});
-
-document.addEventListener("keyup", e => {
-  // if we press the ESC
-  if (e.key == "Escape" && document.querySelector(".modal.is-visible")) {
-    document.querySelector(".modal.is-visible").classList.remove(isVisible);
-  }
-});
-
-</script>

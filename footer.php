@@ -19,22 +19,22 @@
                     <div class='footer-nav'>
                       <ul id="menu-footer" class="footer-nav__menu">
                         <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45">
-                          <a href="../about-us/" style="text-decoration: none !important;">About Us</a>
+                          <a href="/about-us/" style="text-decoration: none !important;">About Us</a>
                         </li>
                         <li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073">
-                          <a href="../specialties/" style="text-decoration: none !important;">Specialties</a>
+                          <a href="/specialties/" style="text-decoration: none !important;">Specialties</a>
                         </li>
                         <li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57">
-                          <a rel="noopener noreferrer" href="../injured-patients/" style="text-decoration: none !important;">Injured Patients</a>
+                          <a rel="noopener noreferrer" href="/injured-patients/" style="text-decoration: none !important;">Injured Patients</a>
                         </li>
                         <!-- <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-46">
                           <a href="" style="text-decoration: none !important;">Privacy Policy</a>
                         </li> -->
                         <li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60">
-                          <a href="../services/" style="text-decoration: none !important;">Services</a>
+                          <a href="/services/" style="text-decoration: none !important;">Services</a>
                         </li>
                         <li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697">
-                          <a href="../join-our-team" style="text-decoration: none !important;">Join Our Team</a>
+                          <a href="/join-our-team" style="text-decoration: none !important;">Join Our Team</a>
                         </li>
 </ul></div>                  </div>
 
@@ -121,5 +121,34 @@
               </div>
 
             </div>
+
+            <script type="text/javascript">
+  
+const openEls = document.querySelectorAll("[data-open]");
+const closeEls = document.querySelectorAll("[data-close]");
+const isVisible = "is-visible";
+for (const el of openEls) {
+  el.addEventListener("click", function() {
+    const modalId = this.dataset.open;
+    document.getElementById(modalId).classList.add(isVisible);
+  });
+}
+for (const el of closeEls) {
+  el.addEventListener("click", function() {
+    this.parentElement.parentElement.parentElement.classList.remove(isVisible);
+  });
+}
+document.addEventListener("click", e => {
+  if (e.target == document.querySelector(".modal.is-visible")) {
+    document.querySelector(".modal.is-visible").classList.remove(isVisible);
+  }
+});
+document.addEventListener("keyup", e => {
+  // if we press the ESC
+  if (e.key == "Escape" && document.querySelector(".modal.is-visible")) {
+    document.querySelector(".modal.is-visible").classList.remove(isVisible);
+  }
+});
+</script>
 
           </footer>

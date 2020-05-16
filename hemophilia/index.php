@@ -376,7 +376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="hero__image-wrapper">
               <div class="hero__image-inner">
                 <figure class="hero__fig cover cover--all">
-                  <img class='' src='../wp-content/uploads/2020/01/hemophilia.jpg' srcset='../wp-content/uploads/2020/01/hemophilia.jpg 750w, ../wp-content/uploads/2020/01/hemophilia.jpg 1600w, ' alt='' width='800' height='800'  data-pin-nopin='true' />                </figure>
+                  <img class='' src='../wp-content/uploads/2020/01/hemophilia.jpg' srcset='../wp-content/uploads/2020/01/hemophilia.jpg 750w, ../wp-content/uploads/2020/01/hemophilia.jpg 1600w, ' alt='hemophilia' width='800' height='800'  data-pin-nopin='true' />                </figure>
               </div>
             </div>
           </div>
@@ -419,7 +419,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/bloodcells.jpg' data-srcset='../wp-content/uploads/2020/01/bloodcells.jpg 620w, ../wp-content/uploads/2020/01/bloodcells.jpg 1240w, ' alt='' width='800' height='800'  data-pin-nopin='true' />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/bloodcells.jpg' data-srcset='../wp-content/uploads/2020/01/bloodcells.jpg 620w, ../wp-content/uploads/2020/01/bloodcells.jpg 1240w, ' alt='bloodcells' width='800' height='800'  data-pin-nopin='true' />                  </figure>
                 </div>
 
               </div>
@@ -802,27 +802,27 @@ When combined with a specialized team approach, improved recombinant factors and
             <li class="sister-hotel__list-item">
               <a href="#">
 
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>

@@ -311,8 +311,6 @@ include("../header-base.php");
     
       
        
-
-      
     
       
         <a href='#' role='link' aria-label='Have a question?' class='button js-block' data-block='button-block'  rel='noopener noreferrer' target='_blank' >
@@ -436,7 +434,7 @@ include("../header-base.php");
           
   <div class="general-content">
     <p class="p1">For more information, please Request a Proposal.</p>
-      <a href='#' role='link' aria-label='Make an inquiry' class='button js-block' data-block='button-block' target='_self' >
+      <a href='#' data-open='modal1' role='link' aria-label='Make an inquiry' class='button js-block' data-block='button-block' target='_self' >
         <span class="new-hover"><span>M</span><span>a</span><span>k</span><span>e</span><span> </span><span>a</span><span>n</span><span> </span><span>i</span><span>n</span><span>q</span><span>u</span><span>i</span><span>r</span><span>y</span></span><span><span>M</span><span>a</span><span>k</span><span>e</span><span> </span><span>a</span><span>n</span><span> </span><span>i</span><span>n</span><span>q</span><span>u</span><span>i</span><span>r</span><span>y</span></span>
       </a>
       
@@ -473,27 +471,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="footer logo" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="footer logo" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="footer logo" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="footer logo" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="footer logo" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -518,33 +516,7 @@ include("../header-base.php");
         <div class="sister-hotel__inner">
           
 
-          <ul class="sister-hotel__list">
-            <li class="sister-hotel__list-item">
-              <a href="https://www.arizonagrandresort.com/" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/arizona-grand.png" width="123" height="51" alt="Arizona Grand Resort and Spa" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="https://www.thehotelcarmel.com/" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/hotel-carmel.png" width="122" height="13" alt="Hotel Carmel" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="https://www.laplayahotel.com/" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/la-playa-carmel.png" width="119" height="28" alt="La Playa Carmel" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="https://www.thelagunabeachhouse.com/" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/laguna-beach.png" width="58" height="52" alt="Laguna Beach Hotel" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="https://www.innatlagunabeach.com/" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/the-inn-at-laguna.png" width="90" height="44" alt="The Inn at Laguna Beach" />
-              </a>
-            </li>
-          </ul>
+          
 
           <a href='../explore-classic-hotels/index.html' role='link' aria-label='Explore classic hotels & resorts' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 

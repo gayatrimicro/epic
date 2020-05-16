@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <figure class="hero__fig cover cover--all">
                   <!-- <video class='' src='../wp-content/uploads/2019/10/Location-Hero.mp4'  autoplay loop muted />  -->
 
-                  <img class="lazyautosizes ls-is-cached lazyloaded" data-sizes="auto" data-lowsrc="../wp-content/uploads/2020/01/big.jpg" data-srcset="../wp-content/uploads/2020/01/big.jpg 620w, ../wp-content/uploads/2020/01/big.jpg 1240w, " alt="" width="800" height="800" data-pin-nopin="true" sizes="621px" srcset="../wp-content/uploads/2020/01/big.jpg 620w, ../wp-content/uploads/2020/01/big.jpg 1240w, ">
+                  <img class="lazyautosizes ls-is-cached lazyloaded" data-sizes="auto" data-lowsrc="../wp-content/uploads/2020/01/big.jpg" data-srcset="../wp-content/uploads/2020/01/big.jpg 620w, ../wp-content/uploads/2020/01/big.jpg 1240w, " alt="images" width="800" height="800" data-pin-nopin="true" sizes="621px" srcset="../wp-content/uploads/2020/01/big.jpg 620w, ../wp-content/uploads/2020/01/big.jpg 1240w, ">
 
 
                 </figure>
@@ -273,7 +273,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/right-side.jpg' data-srcset='../wp-content/uploads/2020/01/right-side.jpg 620w, ../wp-content/uploads/2020/01/right-side.jpg 1240w, ' alt='' width='800' height='800'  data-pin-nopin='true' />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/right-side.jpg' data-srcset='../wp-content/uploads/2020/01/right-side.jpg 620w, ../wp-content/uploads/2020/01/right-side.jpg 1240w, ' alt='right-side' width='800' height='800'  data-pin-nopin='true' />                  </figure>
                 </div>
 
               </div>
@@ -343,7 +343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <!-- <video class='' src='../wp-content/uploads/2019/10/Location-Outdoor.mp4'  autoplay loop muted />  -->
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side1.jpg' data-srcset='../wp-content/uploads/2020/01/left-side1.jpg 750w, ../wp-content/uploads/2020/01/left-side1.jpg 1200w, ' alt='' width='600' height='600'  data-pin-nopin='true' />
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side1.jpg' data-srcset='../wp-content/uploads/2020/01/left-side1.jpg 750w, ../wp-content/uploads/2020/01/left-side1.jpg 1200w, ' alt='left-side' width='600' height='600'  data-pin-nopin='true' />
               </figure>
             </div>
                   </div>
@@ -387,7 +387,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side2.jpg' data-srcset='../wp-content/uploads/2020/01/left-side2.jpg 750w, ../wp-content/uploads/2020/01/left-side2.jpg 1200w, ' alt='' width='600' height='600'  data-pin-nopin='true' />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side2.jpg' data-srcset='../wp-content/uploads/2020/01/left-side2.jpg 750w, ../wp-content/uploads/2020/01/left-side2.jpg 1200w, ' alt='left-sde2' width='600' height='600'  data-pin-nopin='true' />              </figure>
             </div>
                   </div>
       </div>
@@ -436,7 +436,7 @@ Difficulty in breathing</li>
         <div class="listing-blocks__fig-wrapper">
                     <a href='javascript:void(0);'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side3.jpg' data-srcset='../wp-content/uploads/2020/01/left-side3.jpg 750w, ../wp-content/uploads/2020/01/left-side3.jpg 1200w, ' alt='' width='600' height='600'  data-pin-nopin='true' />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../wp-content/uploads/2020/01/left-side3.jpg' data-srcset='../wp-content/uploads/2020/01/left-side3.jpg 750w, ../wp-content/uploads/2020/01/left-side3.jpg 1200w, ' alt='left-side3' width='600' height='600'  data-pin-nopin='true' />              </figure>
             </div>
           </a>        </div>
       </div>
@@ -529,27 +529,27 @@ Difficulty in breathing</li>
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="" />
+                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>
@@ -576,33 +576,7 @@ Difficulty in breathing</li>
           <h3>Our Accreditations</h3>
           
 
-          <ul class="sister-hotel__list">
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);" target="_blank">
-                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/hotel-carmel.png" width="122" height="13" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/la-playa-carmel.png" width="119" height="28" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/laguna-beach.png" width="58" height="52" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);" target="_blank">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/the-inn-at-laguna.png" width="90" height="44" alt="" />
-              </a>
-            </li>
-          </ul>
+          
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 

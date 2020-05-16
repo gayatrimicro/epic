@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 	   
       <?php
-         include("header-home.php");
+         include("header-base.php");
          ?>
       <div class="js-ajax-container" data-namespace="home">
          <section class="home-hero" data-anim="false">
@@ -298,13 +298,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <img class='gallerylazyload' src='wp-content/uploads/2018/10/1of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/1of4.jpg' data-srcset='wp-content/uploads/2018/10/1of4.jpg 1700w, ' alt='images' width='1700' height='880'  data-pin-nopin='true' />
                         </li>
                         <li class="cover cover--all">
-                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/2of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/2of4.jpg' data-srcset='wp-content/uploads/2018/10/2of4.jpg 1700w, ' alt='' width='1700' height='880'  data-pin-nopin='true' />
+                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/2of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/2of4.jpg' data-srcset='wp-content/uploads/2018/10/2of4.jpg 1700w, ' alt='images' width='1700' height='880'  data-pin-nopin='true' />
                         </li>
                         <li class="cover cover--all">
-                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/3of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/3of4.jpg' data-srcset='wp-content/uploads/2018/10/3of4.jpg 1700w, ' alt='' width='1700' height='880'  data-pin-nopin='true' />
+                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/3of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/3of4.jpg' data-srcset='wp-content/uploads/2018/10/3of4.jpg 1700w, ' alt='images' width='1700' height='880'  data-pin-nopin='true' />
                         </li>
                         <li class="cover cover--all">
-                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/4of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/4of4.jpg' data-srcset='wp-content/uploads/2018/10/4of4.jpg 1700w, ' alt='' width='1700' height='880'  data-pin-nopin='true' />
+                           <img class='gallerylazyload' src='wp-content/uploads/2018/10/4of4.jpg'data-sizes='auto' data-lowsrc='wp-content/uploads/2018/10/4of4.jpg' data-srcset='wp-content/uploads/2018/10/4of4.jpg 1700w, ' alt='images' width='1700' height='880'  data-pin-nopin='true' />
                         </li>
                      </ul>
                   </div>
@@ -525,7 +525,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                        <a href='injured-patients/' target='_self'>
                                           <div class="listing-blocks__fig-inner">
                                              <figure class="listing-blocks__fig cover cover--all">
-                                                <img class='lazyload' data-sizes='auto' data-lowsrc='wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg' data-srcset='wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg 750w, wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg 1200w, ' alt='' width='600' height='600'  data-pin-nopin='true' />              
+                                                <img class='lazyload' data-sizes='auto' data-lowsrc='wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg' data-srcset='wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg 750w, wp-content/themes/epic-assets/static/img/sister-logos/lop.jpg 1200w, ' alt='lop' width='600' height='600'  data-pin-nopin='true' />              
                                              </figure>
                                           </div>
                                        </a>
@@ -551,7 +551,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                        <a href='injured-patients/' target='_self'>
                                           <div class="listing-blocks__fig-inner">
                                              <figure class="listing-blocks__fig cover cover--all">
-                                                <img class='lazyload' data-sizes='auto' data-lowsrc='wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg' data-srcset='wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg 750w, wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg 1200w, ' alt='' width='600' height='600'  data-pin-nopin='true' />              
+                                                <img class='lazyload' data-sizes='auto' data-lowsrc='wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg' data-srcset='wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg 750w, wp-content/themes/epic-assets/static/img/sister-logos/workers-comp.jpg 1200w, ' alt='workers-comp' width='600' height='600'  data-pin-nopin='true' />              
                                              </figure>
                                           </div>
                                        </a>
@@ -611,7 +611,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </div>
          <!-- modal popup ends !-->
          <div class="footer-el-wrap" data-anim="false">
-            <?php include 'footer-home.php';?>
+            <?php include 'footer.php';?>
          </div>
          <div class="sister-panels" data-anim="false" data-anim-offset="0">
             <div class="sister-hotel">
@@ -623,27 +623,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <ul class="sister-hotel__list">
                               <li class="sister-hotel__list-item">
                                  <a href="#">
-                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
+                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
                                  </a>
                               </li>
                               <li class="sister-hotel__list-item">
                                  <a href="#">
-                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="" />
+                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
                                  </a>
                               </li>
                               <li class="sister-hotel__list-item">
                                  <a href="#">
-                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="" />
+                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
                                  </a>
                               </li>
                               <li class="sister-hotel__list-item">
                                  <a href="#">
-                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="" />
+                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
                                  </a>
                               </li>
                               <li class="sister-hotel__list-item">
                                  <a href="#">
-                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="" />
+                                 <img src="wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
                                  </a>
                               </li>
                            </ul>
