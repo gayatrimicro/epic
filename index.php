@@ -453,7 +453,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="text-image-cols__image">
                                        <figure class='text-image-cols__fig cover cover--all cover--crop-bottom'>
                                           <!-- <video class='' src='wp-content/uploads/2018/10/1of4.jpg'  autoplay loop muted /></video>  -->
-                                          <img src="wp-content/uploads/2018/10/aboutus.jpg" class="new-images" /> 
+                                          <img src="wp-content/uploads/2018/10/aboutus.jpg" alt="about-us" class="new-images" /> 
                                        </figure>
                                     </div>
                                  </div>
