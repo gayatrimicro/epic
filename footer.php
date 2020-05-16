@@ -43,7 +43,7 @@
                 <div class="col site-footer__col site-footer__col--contact m12 tp6 t3 d2">
 
                   <div class="site-footer__contact">
-                    <ul><li>Call Us</li><li><a href='tel:888-688-0054' class='no-style'>Ph. 405-724-7852</a></li><li>Toll-Free : <a href='tel:4809457666' class='no-style'>888-688-0054</a></li><li>Fax : 405-724-7853</li>
+                    <ul><li>Call Us</li><li>Ph. <a href='tel:405-724-7852' class='no-style'>405-724-7852</a></li><li>Toll-Free : <a href='tel:888-688-0054' class='no-style'>888-688-0054</a></li><li>Fax : 405-724-7853</li>
 
                       <li><a href="mailto:epicrx@epicpharmacyokc.com" target="_blank" style="text-decoration: none !important;">epicrx@epicpharmacyokc.com</a></li>
 
@@ -60,24 +60,24 @@
 2249 NW 39th<br/> Street Oklahoma City,<br/> OK 73112<br/>
 </p>
                     <ul class="site-footer__social-links flex flex--vert-align">
-                                              <li class="site-footer__social-link site-footer__social-link--twitter"><a href="#" target="_blank">
+                                              <!-- <li class="site-footer__social-link site-footer__social-link--twitter"><a href="#" target="_blank">
                           Twitter
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 31">
   <path d="M38.01 3.65a16.38 16.38 0 0 1-4.48 1.26A7.5 7.5 0 0 0 36.94.56a15.515 15.515 0 0 1-4.9 1.91A7.706 7.706 0 0 0 26.3-.01a7.457 7.457 0 0 0-5.55 2.33 7.6 7.6 0 0 0-2.24 5.49 8.5 8.5 0 0 0 .19 1.83A22.272 22.272 0 0 1 2.63 1.59 7.833 7.833 0 0 0 1.6 5.41a7.4 7.4 0 0 0 3.46 6.48 7.142 7.142 0 0 1-3.5-.99v.11a7.7 7.7 0 0 0 1.75 5 7.617 7.617 0 0 0 4.49 2.67 7.735 7.735 0 0 1-2.09.27 6.191 6.191 0 0 1-1.45-.16A7.812 7.812 0 0 0 7 22.68a7.487 7.487 0 0 0 4.52 1.57 15.122 15.122 0 0 1-9.65 3.7A14.217 14.217 0 0 1 0 27.83a23.355 23.355 0 0 0 26-1.68 23.738 23.738 0 0 0 4.45-5.11 22.18 22.18 0 0 0 3.68-12.28V7.73a15.881 15.881 0 0 0 3.88-4.08z" fill-rule="evenodd"/>
 </svg>
-                        </a></li>
-                                                                    <li class="site-footer__social-link site-footer__social-link--facebook"><a href="#" target="_blank">
+                        </a></li> -->
+        <li class="site-footer__social-link site-footer__social-link--facebook"><a href="https://www.facebook.com/Epic-Pharmacy-104680521120912/" target="_blank">
                           Facebook
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 36">
   <path data-name="facebook" d="M11.02 36V19.52h6.18l.46-6.02h-6.64V9c0-2.01.5-2.99 2.58-2.99h3.81l.25-5.68-.56-.08A33.1 33.1 0 0 0 13.25 0c-2.94 0-5.13.79-6.61 2.38a8.248 8.248 0 0 0-2.22 5.87v5.25H0v6.02h4.42V36h6.6z" fill-rule="evenodd"/>
 </svg>
                         </a></li>
-                                                                    <li class="site-footer__social-link site-footer__social-link--instagram"><a href="#" target="_blank">
+                                                                    <!-- <li class="site-footer__social-link site-footer__social-link--instagram"><a href="#" target="_blank">
                           Instagram
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
   <path d="M16.56 3.05c4.42 0 4.95.01 6.69.09a9.22 9.22 0 0 1 3.08.58 5.6 5.6 0 0 1 3.14 3.21 9.29 9.29 0 0 1 .57 3.13c.08 1.78.1 2.31.1 6.82s-.02 5.04-.1 6.82a9.29 9.29 0 0 1-.57 3.13 5.6 5.6 0 0 1-3.14 3.21 9.22 9.22 0 0 1-3.08.58c-1.74.08-2.27.09-6.69.09s-4.94-.01-6.69-.09a9.144 9.144 0 0 1-3.07-.58 5.126 5.126 0 0 1-1.9-1.27 5.207 5.207 0 0 1-1.24-1.94 9.29 9.29 0 0 1-.57-3.13c-.08-1.78-.1-2.31-.1-6.82s.02-5.04.1-6.82a9.29 9.29 0 0 1 .57-3.13A5.207 5.207 0 0 1 4.9 4.99a5.126 5.126 0 0 1 1.9-1.27 9.144 9.144 0 0 1 3.07-.58c1.75-.08 2.27-.09 6.69-.09m0-3.04c-4.49 0-5.06.01-6.82.1a11.8 11.8 0 0 0-4.02.78 8.05 8.05 0 0 0-2.93 1.95A8.272 8.272 0 0 0 .88 5.83a12.537 12.537 0 0 0-.77 4.09c-.08 1.8-.1 2.38-.1 6.96s.02 5.16.1 6.96a12.537 12.537 0 0 0 .77 4.09 8.272 8.272 0 0 0 1.91 2.99 8.05 8.05 0 0 0 2.93 1.95 11.8 11.8 0 0 0 4.02.78c1.76.09 2.33.11 6.82.11s5.06-.02 6.83-.11a11.848 11.848 0 0 0 4.02-.78 8.05 8.05 0 0 0 2.93-1.95 8.272 8.272 0 0 0 1.91-2.99 12.537 12.537 0 0 0 .77-4.09c.08-1.8.1-2.38.1-6.96s-.02-5.16-.1-6.96a12.537 12.537 0 0 0-.77-4.09 8.272 8.272 0 0 0-1.91-2.99A8.05 8.05 0 0 0 27.41.89a11.848 11.848 0 0 0-4.02-.78c-1.77-.09-2.33-.1-6.83-.1zm0 8.2a8.672 8.672 0 1 0 8.51 8.67 8.588 8.588 0 0 0-8.51-8.67zm0 14.29a5.621 5.621 0 1 1 5.52-5.62 5.572 5.572 0 0 1-5.52 5.62zM27.39 7.87a1.99 1.99 0 1 1-1.99-2.02 2.01 2.01 0 0 1 1.99 2.02z" fill-rule="evenodd"/>
 </svg>
-                        </a></li>
+                        </a></li> -->
                                           </ul>
                   </div>
 
