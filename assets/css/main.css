@@ -137,7 +137,7 @@
 @media (min-width: 1240px){
 .site-footer__social-links {
     margin-bottom: 0;
-    display: none;
+    display: block;
 }
 }
     @media (min-width: 1024px){
