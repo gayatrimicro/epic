@@ -111,7 +111,7 @@
 
 .site-footer__social-links {
     margin-bottom: 0;
-    display: none;
+    display: block;
 }
 .home-hero__inner{
 
