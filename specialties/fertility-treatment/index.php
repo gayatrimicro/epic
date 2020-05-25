@@ -5,6 +5,13 @@
 <!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 
 <head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZLPRNC');</script>
+<!-- End Google Tag Manager -->
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -32,33 +39,46 @@
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Asthma Allergy</title>
+  
+  <title>Infertility Drugs | Epic Pharmacy</title>
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <meta name="description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free." >
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <meta name="keywords" content="infertility drugs for men and women available, order online from epic pharmacy, refill rx prscription for fertility drugs, bravelle, cetrotide, clomid, crenone and other fertility drugs available, injectable hormones for fertility, best fertility pills, over the counter fertility drugs">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <meta property="og:locale" content="en_US">
+  <meta name="og:site_name" content="Epic Pharmacy"/>
+  <meta property="og:type" content="Website">
+  <meta property="og:title" content="Infertility Drugs | Epic Pharmacy">
+  <meta property="og:description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free.">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/fertility-treatment/">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Infertility Drugs | Epic Pharmacy">
+  <meta name="twitter:description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free.">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/fertility-treatment/">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/fertility-treatment/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/fertility-treatment/" hreflang="en-us" />
+
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   
-
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
 
 <!-- / Yoast SEO plugin. -->
 
@@ -66,22 +86,22 @@
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -136,19 +156,64 @@
 }
 }
 </style>
+	
+	<!--json schema -->
+	<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "Store",
+		  "name": "Oklahoma's online Epic Pharmacy",
+		  "description": "Contact Oklahoma's online Epic Pharmacy to refill prescriptions. Find internet pharmacy for delivery near me",
+		  "openingHours": "Mo-Fr 09:00am - 06:00pm Sat 09:00am - 06:00pm",
+		  "telephone": "888-688-0054",
+		  "image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+		  "priceRange": "$0",
+		  "address":
+		  {
+		  "@type": "PostalAddress",
+		  "streetAddress": "2249 NW 39th Street",
+		  "addressLocality": "Oklahoma City",
+		  "addressRegion": "OK",
+		  "postalCode": "73112",
+		  "addressCountry": "USA"
+		  },
+		  "department":
+		  {
+			"@type": "Pharmacy",
+			"name": "Epic Pharmacy",
+			"description": "Leading suppliers of pharmacy services and specialty medications. Buy medicines online with a discount on prescription drugs",
+			"openingHours": "Mo-Fr 09:00am -06:00pm Sat 09:00am -06:00pm",
+			"telephone": "888-688-0054",
+			"image": "https://epicpharmacyokc.com/assets/images/center-mobile.jpg",
+			"priceRange": "$0",
+			"address":
+			{
+			  "@type": "PostalAddress",
+			  "streetAddress": "2249 NW 39th Street",
+			  "addressLocality": "Oklahoma City",
+			  "addressRegion": "OK",
+			  "postalCode": "73112",
+			  "addressCountry": "USA"
+			}
+		  }
+		}
+	</script>
+	<!--json schema -->
+	
 </head>
 
 
 
 <body class="page-template-default page page-id-33" data-load="false" data-menu="false" data-reservation="false" data-scrolled="false">
 
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-WDBC4M' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLPRNC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -169,9 +234,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Asthma Allergy</h1>
+        <h1 data-break="lines">Fertility Treatment</h1>
 
-        <p class="p1">Your best days are ahead of you! Do you feel that your options for an allergy-free life are running out?</p>
+        <p class="p1">Since many years, the team at Epic Pharmacy, has earned a proud reputation for successfully helping couples through all kinds of fertility issues. You aren’t the next case with us… we take the time to get to know you so that we can provide treatment options that best fit your needs.</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -200,7 +265,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/asthma-4.jpg' data-srcset='../assets/images/asthma-4.jpg 620w, ../assets/images/asthma-4.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/fertility-1.jpg' data-srcset='/assets/images/fertility-1.jpg 620w, /assets/images/fertility-1.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -220,9 +285,11 @@ include("../header-base.php");
 
     
       
-        <p>Whether you need to avoid allergens, take medicines or receive allergy shots- we can help! Our mission at Epic Pharmacy is to provide the highest quality allergy and asthma health care for our community.</p>
+        <p>We are dedicated to providing you with the patience, understanding and compassion you deserve during this important time in your life. (BOLD)</p>
 
-        <p>Our physicians are committed to creating an atmosphere of open communication, mutual respect and teamwork. We provide one-on-one, personalized care and treatment of your medical needs. Let our family take care of your family, because what we do matters to you!
+        <p>Deciding to start a family should be a time of great joy and excitement for couples or individuals, but when any fertility challenges arise, the experience can certainly become a struggle.</p>
+
+        <p>For those who are having trouble getting pregnant after several attempts, seeking the help of a fertility specialist may be a good idea. 
         </p>
 
       
@@ -248,7 +315,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/asthma-3.jpg' data-srcset='../assets/images/asthma-3.jpg 620w, ../assets/images/asthma-3.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />            </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/fertility5.jpg' data-srcset='/assets/images/fertility5.jpg 620w, /assets/images/fertility5.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
             </div>
                   </div>
       </div>
@@ -256,21 +323,15 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Diagnosis and Treatment of Allergies</h3>
+        <h3 class="listing-blocks__heading pad-bot">Diagnosing Health Issues and Making Improvement </h3>
 
         <div class="listing-blocks__content">
-                      <p>After a comprehensive clinical evaluation, where appropriate, allergy testing may be recommended. We offer both skin and blood testing for foods, environmental, insect stings, and certain drug allergies.</p>
+                      <p>The final thing that couples must assess is their overall physical condition and how they can make improvements to their general health. </p>
 
-                      <p><strong>There are three main treatment options including:</strong></p>
+                      <p>Issues that prevent pregnancy from occurring can be overwhelming to say the least. Both men and women must pay close attention to their reproductive health, personal health, lifestyle factors, and environmental factors when trying to conceive because even the slightest problem can result in many failed attempts. </p>
 
                       
 
-
-                      <ol style="margin-top: 0px;">
-                        <li>Various over-the-counter and prescription medications</li>
-                        <li>Desensitization (i.e. allergy shots) or other immunotherapy, a treatment course that helps your immune system learn not to overreact when allergens are present</li>
-                        <li>Non-medication options, such as avoiding the offending allergens and other lifestyle habit change</li>
-                      </ol>
                   </div>
 
               </div>
@@ -287,13 +348,12 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Asthma / Chronic Cough</h3>
+        <!-- <h3 class="listing-blocks__heading">Find Answers with Epic Pharmacy</h3> -->
 
         <div class="listing-blocks__content">
-                      <p>Asthma is a chronic inflammatory lung disease that affects the airways in your lung. During an acute asthma episode, the airway linings are swollen and inflamed. The airways also produce more mucus and the muscles around the airways tighten. All of this leads to narrower airways, which makes it harder to breathe.</p>
+                      <p>Some of the most common fertility challenges that women face include PCOS, PID, uterine fibroids, and endometriosis, whereas men may struggle with having a low sperm count, poor sperm health, low testosterone, or issues with sexual performance. That being said, many of these problems for both genders can go unnoticed if they aren't being directly examined, and that's why meeting with a fertility specialist can provide some valuable insight. </p>
 
-                      <p>Asthma may be triggered by allergies, colds, sinusitis, exercise, strong emotions (laughing/crying), smoke or pollution, and weather changes.
-                      </p>
+                      <p>A fertility specialist at Epic Pharmacy can recommend several ways for both men and women to amend their health issues or prescribe certain medications and procedures to help. Dealing with fertility issues can certainly be a challenge if you're unsure of what to look for, but being aware of your overall health and finding the right support will make a huge difference. </p>
                   </div>
 
               </div>
@@ -303,88 +363,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/asthma-2.jpg' data-srcset='../assets/images/asthma-2.jpg 620w, ../assets/images/asthma-2.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />               </figure>
-            </div>
-                  </div>
-      </div>
-
-      
-    </div>
-  </div>
-</li>
-                      
-
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/asthma-5.jpg' data-srcset='../assets/images/asthma-5.jpg 620w, ../assets/images/asthma-5.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />           </figure>
-            </div>
-                  </div>
-      </div>
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading pad-bot">Signs & Symptoms of Asthma</h3>
-
-        <div class="listing-blocks__content">
-                      
-                      <ol>
-                        <li>
-                          Cough – For some people, this may be the only symptom of asthma! It may mainly occur at night or after exercise.
-                        </li>
-                        <li>
-                          Shortness of breath while walking or at rest
-                        </li>
-                        <li>
-                          Wheezing – However, not all people with asthma wheeze!
-                        </li>
-                        <li>
-                          Chest tightness
-                        </li>
-                        <li>
-                          Fatigue and feeling out of breath
-                        </li>
-                        <li>
-                          Inability to complete/talk in full sentences (during a flare)
-                        </li>
-
-                      </ol>
-                  </div>
-
-              </div>
-    </div>
-  </div>
-</li>
-
-
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading pad-bot">Treatment of Asthma</h3>
-
-        <div class="listing-blocks__content">
-                      <p>Our healthcare team can help diagnose and treat asthma. We understand that patients also want to know what is causing their asthma. We help identify triggers through discussion and testing and coordinate a plan to better minimize exposure to those known triggers. We also educate and discuss treatments, including novel asthma biologic therapies.  By working together, we want to keep you breathing easier and engaged in your active life!
-                      </p>
-                  </div>
-
-              </div>
-
-
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/asthma-1.jpg' data-srcset='../assets/images/asthma-1.jpg 620w, ../assets/images/asthma-1.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/fertility-2.jpg' data-srcset='/assets/images/fertility-2.jpg 620w, /assets/images/fertility-2.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -395,11 +374,37 @@ include("../header-base.php");
 </li>
 
 
+<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
+  <div class="listing-blocks__wrapper">
+    <div class="cols">
+      <div class="listing-blocks__fig-container col m12 t6 d4">
+        <div class="listing-blocks__fig-wrapper">
+                                <div class="listing-blocks__fig-inner">
+              <figure class="listing-blocks__fig cover cover--all">
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/fertility-4.jpg' data-srcset='/assets/images/fertility-4.jpg 620w, /assets/images/fertility-4.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />           </figure>
+            </div>
+                  </div>
+      </div>
 
+      <div class="listing-blocks__inner col m12 tp8 t6 d4">
+                  <h4 class="listing-blocks__subheading"></h4>
+        
+        <h3 class="listing-blocks__heading pad-bot">Find Answers with Epic Pharmacy</h3>
 
+        <div class="listing-blocks__content">
+                      <p>Having the family of your dreams doesn't necessarily mean it has to occur in a certain way. All that matters is that you achieve a healthy, successful pregnancy at a time that's right for you, and we at Epic Pharmacy can make that a reality. </p>
 
+                      <p>If you and your partner have been contemplating seeking the help of a fertility specialist, then hopefully these guidelines will nudge you in the right direction. Feel free to request an appointment today.
+                      </p>
+                  </div>
 
-                  </ul>
+              </div>
+    </div>
+  </div>
+</li>
+        
+
+        </ul>
       </div>
       </div>
 </section>
@@ -424,7 +429,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -443,27 +448,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -505,8 +510,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

@@ -5,7 +5,6 @@
 <!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 
 <head>
-	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -41,33 +40,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
-  <title>Epic Pharmacy | Hepatitis</title>
-
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
-
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
-
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
-
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
-
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
-
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
-
   
+  <title>Multiple Sclerosis Medications | Epic Pharmacy</title>
 
-<meta name=""/>
-<link rel="canonical" href="" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="" />
-<meta property="og:site_name" content="" />
-<meta name="twitter:card" content="" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="" />
+  <meta name="description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free." >
+
+  <meta name="keywords" content="medication for MS, treatment for multiple sclerosis drugs, online pharmacy, online drugstore for MS treatment, fda approved drugs for MS, long-term drug therapy for MS, avonex, copaxone, aubagio online order from pharmacy near me">
+
+
+  <meta property="og:locale" content="en_US">
+  <meta name="og:site_name" content="Epic Pharmacy"/>
+  <meta property="og:type" content="Website">
+  <meta property="og:title" content="Multiple Sclerosis Medications | Epic Pharmacy">
+  <meta property="og:description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/multiple-sclerosis/">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Multiple Sclerosis Medications | Epic Pharmacy">
+  <meta name="twitter:description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/multiple-sclerosis/">
+
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/multiple-sclerosis/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/multiple-sclerosis/" hreflang="en-us" />
+
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+
 
 <!-- / Yoast SEO plugin. -->
 
@@ -75,22 +87,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -202,7 +214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -223,9 +235,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Asthma Allergy</h1>
+        <h1 data-break="lines">Multiple Sclerosis</h1>
 
-        <p class="p1">Your best days are ahead of you! Do you feel that your options for an allergy-free life are running out?</p>
+        <p class="p1">Multiple sclerosis is a disease of the central nervous system in which the body’s immune system attacks the protective sheath (myelin) that covers the nerves.</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -254,7 +266,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-banner.jpg' data-srcset='../assets/images/oncology-banner.jpg 620w, ../assets/images/oncology-banner.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sclerosis-3.jpg' data-srcset='/assets/images/sclerosis-3.jpg 620w, /assets/images/sclerosis-3.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -274,9 +286,7 @@ include("../header-base.php");
 
     
       
-        <p>Whether you need to avoid allergens, take medicines or receive allergy shots- we can help! Our mission at Epic Pharmacy is to provide the highest quality allergy and asthma health care for our community.</p>
-
-        <p>Our physicians are committed to creating an atmosphere of open communication, mutual respect and teamwork. We provide one-on-one, personalized care and treatment of your medical needs. Let our family take care of your family, because what we do matters to you!
+        <p>Damage to the myelin disrupts the flow of information in the brain and between the brain and the body. In some patients, the nerves may deteriorate and the irreversible damage can affect sensory and motor skills such as eyesight and walking.
         </p>
 
       
@@ -302,7 +312,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-billing.jpg' data-srcset='../assets/images/oncology-billing.jpg 750w, ../assets/images/oncology-billing.jpg 1200w, ' alt='Insurance &amp; Billing' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
+               <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sclerosis-1.jpg' data-srcset='/assets/images/sclerosis-1.jpg 620w, /assets/images/sclerosis-1.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
             </div>
                   </div>
       </div>
@@ -310,21 +320,15 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3>
+        <!-- <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3> -->
 
         <div class="listing-blocks__content">
-                      <p>After a comprehensive clinical evaluation, where appropriate, allergy testing may be recommended. We offer both skin and blood testing for foods, environmental, insect stings, and certain drug allergies.</p>
-
-                      <p><strong>There are three main treatment options including:</strong></p>
+                      <p>Epic Pharmacy provides specialty medications for the treatment of multiple sclerosis – including the latest, most advanced drugs that focus on disease-modifying versus symptomatic treatment. Our complete system of care is vital for patients with multiple sclerosis and other chronic medical conditions, providing them with access to services that support improved quality of life and the best possible medical outcomes.</p>
 
                       
 
 
-                      <ol>
-                        <li>Various over-the-counter and prescription medications</li>
-                        <li>Desensitization (i.e. allergy shots) or other immunotherapy, a treatment course that helps your immune system learn not to overreact when allergens are present</li>
-                        <li>Non-medication options, such as avoiding the offending allergens and other lifestyle habit change</li>
-                      </ol>
+                      
                   </div>
 
               </div>
@@ -341,12 +345,13 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading">Asthma / Chronic Cough</h3>
+        <h3 class="listing-blocks__heading pad-bot">Multiple Sclerosis Types and Specialized Treatment</h3>
 
         <div class="listing-blocks__content">
-                      <p>Asthma is a chronic inflammatory lung disease that affects the airways in your lung. During an acute asthma episode, the airway linings are swollen and inflamed. The airways also produce more mucus and the muscles around the airways tighten. All of this leads to narrower airways, which makes it harder to breathe.</p>
+                      <p>Multiple sclerosis affects an estimated 2.5 million people worldwide. A disorder of young adults, the disease predominantly targets women with varying levels of severity and symptoms that range from fatigue and mood disturbances to pain, cognitive loss, and motor or sensory impairment.</p>
 
-                      <p>Asthma may be triggered by allergies, colds, sinusitis, exercise, strong emotions (laughing/crying), smoke or pollution, and weather changes.
+
+                      <p>There are several multiple sclerosis subtypes. Up to 75% of cases begin with a relapsing-remitting (RRMS) course, which involves acute attacks that are separated in time, with full or partial recovery. The primary-progressive (PPMS) subtype involves a progression of disability with occasional plateaus and temporary minor improvements. Approximately 6-10% of people with multiple sclerosis appear to have PPMS at diagnosis. The secondary-progressive (SPMS) subtype is characterized by progression of the disease at a variable rate.
                       </p>
                   </div>
 
@@ -357,7 +362,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-medication.jpg' data-srcset='../assets/images/oncology-medication.jpg 750w, ../assets/images/oncology-medication.jpg 1200w, ' alt='Medication Delivery' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sclerosis-4.jpg' data-srcset='/assets/images/sclerosis-4.jpg 620w, /assets/images/sclerosis-4.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
             </div>
                   </div>
       </div>
@@ -375,7 +380,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-support.jpg' data-srcset='../assets/images/oncology-support.jpg 750w, ../assets/images/oncology-support.jpg 1200w, ' alt='Support' width='600' height='600'  data-pin-nopin='true' data-object-fit />             </figure>
+               <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sclerosis-2.jpg' data-srcset='/assets/images/sclerosis-2.jpg 620w, /assets/images/sclerosis-2.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />            </figure>
             </div>
                   </div>
       </div>
@@ -383,31 +388,13 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading">Signs & Symptoms of Asthma</h3>
+        <!-- <h3 class="listing-blocks__heading">Signs & Symptoms of Asthma</h3> -->
 
         <div class="listing-blocks__content">
                       
-                      <ol>
-                        <li>
-                          Cough – For some people, this may be the only symptom of asthma! It may mainly occur at night or after exercise.
-                        </li>
-                        <li>
-                          Shortness of breath while walking or at rest
-                        </li>
-                        <li>
-                          Wheezing – However, not all people with asthma wheeze!
-                        </li>
-                        <li>
-                          Chest tightness
-                        </li>
-                        <li>
-                          Fatigue and feeling out of breath
-                        </li>
-                        <li>
-                          Inability to complete/talk in full sentences (during a flare)
-                        </li>
+                      <p>Our comprehensive system of care combines our comprehensive pharmacy services with other clinical and administrative services to help patients improve their quality of life and achieve the best possible outcomes from their therapy.</p>
 
-                      </ol>
+                      <p>From care coordination and collaborative planning with the patient’s medical team to our home-based nursing services that specialize in administering injectable and IV drugs, our offerings add up to positive outcomes.</p>
                   </div>
 
               </div>
@@ -416,37 +403,6 @@ include("../header-base.php");
 </li>
 
 
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading">Treatment of Asthma</h3>
-
-        <div class="listing-blocks__content">
-                      <p>Our healthcare team can help diagnose and treat asthma. We understand that patients also want to know what is causing their asthma. We help identify triggers through discussion and testing and coordinate a plan to better minimize exposure to those known triggers. We also educate and discuss treatments, including novel asthma biologic therapies.  By working together, we want to keep you breathing easier and engaged in your active life!
-                      </p>
-                  </div>
-
-              </div>
-
-
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-medication.jpg' data-srcset='../assets/images/oncology-medication.jpg 750w, ../assets/images/oncology-medication.jpg 1200w, ' alt='Medication Delivery' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
-            </div>
-                  </div>
-      </div>
-
-      
-    </div>
-  </div>
-</li>
 
 
 
@@ -478,7 +434,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -497,27 +453,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -541,7 +497,7 @@ include("../header-base.php");
 
         <div class="sister-hotel__inner">
 
-          
+         
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 
@@ -559,8 +515,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

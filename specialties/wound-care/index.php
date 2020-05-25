@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-US"> <![endif]-->
 <!--[if IE 9]> <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
@@ -41,46 +41,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
+  
+  <title>Compounded Medicine Store | Epic Pharmacy</title>
 
-  <title>Post-transplant Medications | Epic Pharmacy</title>
+  <meta name="description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free." >
 
-  <meta name="description" content="Anti-rejection post-transplant drugs available at Epic Pharmacy. Call 888-688-0054 toll-free." >
-
-  <meta name="keywords" content="anti-rejection medication for transplant patients, order post-transplant drugs online, azathrioprine, basiliximab, belatacept, cyclosporine, order immunosuppresant medication online">
+  <meta name="keywords" content="how can i  order compounded medications online, compounding pharmacy in oklahoma, oklahoma internet pharmacy, compounded topical medication and creams, compounded medications for neuropathic pain">
 
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Post-transplant Medications | Epic Pharmacy">
-  <meta property="og:description" content="Anti-rejection post-transplant drugs available at Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta property="og:title" content="Compounded Medicine Store | Epic Pharmacy">
+  <meta property="og:description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free.">
   <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/transplant/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/wound-care/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Post-transplant Medications | Epic Pharmacy">
-  <meta name="twitter:description" content="Anti-rejection post-transplant drugs available at Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta name="twitter:title" content="Compounded Medicine Store | Epic Pharmacy">
+  <meta name="twitter:description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free.">
   <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/transplant/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/wound-care/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/transplant/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/transplant/" hreflang="en-us" />
-  
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/wound-care/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/wound-care/" hreflang="en-us" />
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+
+
 
 <!-- / Yoast SEO plugin. -->
 
@@ -88,22 +88,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -208,13 +208,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <body class="page-template-default page page-id-33" data-load="false" data-menu="false" data-reservation="false" data-scrolled="false">
 
-	<!-- Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLPRNC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-  
+<!-- End Google Tag Manager (noscript) -->  
+
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -235,9 +235,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Transplant</h1>
+        <h1 data-break="lines">Wound Care</h1>
 
-        <p class="p1">Organ transplant happens when the doctors or surgeons remove an organ from a person and place it in another body.</p>
+        <p class="p1">Epic Pharmacy offers custom compounding solutions to patients with hard-to-heal wounds.</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -266,7 +266,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/transplant-2.jpg' data-srcset='../assets/images/transplant-2.jpg 620w, ../assets/images/transplant-2.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/wound-1.jpg' data-srcset='/assets/images/wound-1.jpg 620w, /assets/images/wound-1.jpg 1240w, ' alt='Wound care' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -286,9 +286,9 @@ include("../header-base.php");
 
     
       
-        <p>The organ may come from a living person or from a person who has died. This complex procedure takes place when one of the important organs—Heart, Intestine, Kidney, Liver, Lung, Pancreas—has failed. Some people wait for a long time because the doctors must match the donors and recipients to reduce or avoid the risks of the transplant rejection.</p>
+        <p>Some wounds, like pressure sores, are difficult to heal. Others, such as burns or ulcers, might suffer tissue disruption or infection when cleaned or treated with traditional medicines. Wound compounding involves several approaches and medications applied topically.</p>
 
-        <p>Specialized medications are used to treat the adverse effects which also need particular instructions or directions from the pharmacist to ensure proper intake or administration by the patient. Medication schedules can be often difficult to comply with as the medication therapy management comprises of coordination between pharmacist and physician, intermittent pharmacist consultations, and cyclic prescription refills. What’s more, these healthcare supplies and drugs specific to post-organ transplant recovery can be costly.
+        <p>Epic Pharmacy offers many combinations of high quality antibiotics, antifungals, steroids and other ingredients to reduce pain, stimulate new tissue, increase blood flow and soothe the affected area. By combining medications we can achieve better healing.
         </p>
 
       
@@ -314,7 +314,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/transplant-3.jpg' data-srcset='../assets/images/transplant-3.jpg 620w, ../assets/images/transplant-3.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/wound-2.jpgg' data-srcset='/assets/images/wound-2.jpg 750w, /assets/images/wound-2.jpg 1200w, ' alt='wound-2' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -322,50 +322,21 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <!-- <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3> -->
+        <h3 class="listing-blocks__heading pad-bot">Diagnosis and Treatment of Allergies</h3>
 
         <div class="listing-blocks__content">
-                      <p>Epic Pharmacy realizes most post-hospitalization effects that patients undergo with related health issues after an organ transplant. Our commitment is to give patients and healthcare professionals access to private consultations and dispense instructions to manage their health conditions. In line with this, we will always be available to provide assistance by coordinating with insurance companies for prior authorizations and will also endorse patients to the manufacturer for possible financial help.</p>
+                      <p>Our unique gel base is water soluble, yet still adheres to the wound. This allows for minimal contact with the wound and helps prevent aggravation and/or irritation when cleaning or debriding the wound.</p>
+
+                      <p>Topical application is advantageous in that it offers minimal systemic absorption. This decreases the risk of adverse effects and the potential drug-drug interactions associated with systemic medications, which can result in significantly improved healing.</p>
+
+                      <p><strong>Talk to your Physician today to find out more about these new, innovative treatment options.</strong></p>
                   </div>
 
               </div>
     </div>
   </div>
 </li>
-                      
-
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <!-- <h3 class="listing-blocks__heading">Asthma / Chronic Cough</h3> -->
-
-        <div class="listing-blocks__content">
-                      <p>Rest assured that with Epic Pharmacy, you will get the quality comprehensive, personalized, and professional services. For more information about Epic Pharmacy services and if you wish to receive assistance with drug interaction reviews by the pharmacist, feel free to reach us.
-                      </p>
-                  </div>
-
-              </div>
-
-
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/transplant-1.jpg' data-srcset='../assets/images/transplant-1.jpg 620w, ../assets/images/transplant-1.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
-            </div>
-                  </div>
-      </div>
-
       
-    </div>
-  </div>
-</li>
-                      
 
 
 
@@ -396,7 +367,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -415,27 +386,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -459,7 +430,33 @@ include("../header-base.php");
 
         <div class="sister-hotel__inner">
 
-          
+          <!-- <ul class="sister-hotel__list">
+            <li class="sister-hotel__list-item">
+              <a href="javascript:void(0);">
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
+              </a>
+            </li>
+            <li class="sister-hotel__list-item">
+              <a href="javascript:void(0);">
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="122" height="13" alt="" />
+              </a>
+            </li>
+            <li class="sister-hotel__list-item">
+              <a href="javascript:void(0);">
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/la-playa-carmel.png" width="119" height="28" alt="" />
+              </a>
+            </li>
+            <li class="sister-hotel__list-item">
+              <a href="javascript:void(0);">
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/laguna-beach.png" width="58" height="52" alt="" />
+              </a>
+            </li>
+            <li class="sister-hotel__list-item">
+              <a href="javascript:void(0);">
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/the-inn-at-laguna.png" width="90" height="44" alt="" />
+              </a>
+            </li>
+          </ul> -->
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 
@@ -477,8 +474,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

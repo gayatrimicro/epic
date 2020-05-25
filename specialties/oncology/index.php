@@ -1,10 +1,11 @@
-
+ 
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-US"> <![endif]-->
 <!--[if IE 9]> <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
 <!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 
 <head>
+	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -41,43 +42,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
   
-  <title>Multiple Sclerosis Medications | Epic Pharmacy</title>
+  <title>Cancer Drug Therapy Store | Epic Pharmacy</title>
 
-  <meta name="description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free." >
+  <meta name="description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order" >
 
-  <meta name="keywords" content="medication for MS, treatment for multiple sclerosis drugs, online pharmacy, online drugstore for MS treatment, fda approved drugs for MS, long-term drug therapy for MS, avonex, copaxone, aubagio online order from pharmacy near me">
+  <meta name="keywords" content="cancer drugs for treatment, abiraterone, chemotherapy medications, cancer medications, adriamycin, drugs for breast cancer, drugs for prostate cancer, drugs for oral cancer, oncology specialty medications">
 
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Multiple Sclerosis Medications | Epic Pharmacy">
-  <meta property="og:description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/multiple-sclerosis/">
+  <meta property="og:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
+  <meta property="og:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/oncology/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Multiple Sclerosis Medications | Epic Pharmacy">
-  <meta name="twitter:description" content="Leading Medications for MS available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/multiple-sclerosis/">
+  <meta name="twitter:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
+  <meta name="twitter:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
+  <meta name="twitter:image" content="">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/oncology/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/multiple-sclerosis/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/multiple-sclerosis/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/oncology/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/oncology/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
 
 
@@ -87,22 +88,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -210,11 +211,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLPRNC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-  
+<!-- End Google Tag Manager (noscript) -->  
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -235,9 +235,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Multiple Sclerosis</h1>
+        <h1 data-break="lines">Oncology</h1>
 
-        <p class="p1">Multiple sclerosis is a disease of the central nervous system in which the body’s immune system attacks the protective sheath (myelin) that covers the nerves.</p>
+        <p class="p1">Epic Pharmacy pharmacists are uniquely trained to supervise prescribed drug therapies for cancer patients.</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -266,7 +266,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/sclerosis-3.jpg' data-srcset='../assets/images/sclerosis-3.jpg 620w, ../assets/images/sclerosis-3.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/oncology-banner.jpg' data-srcset='/assets/images/oncology-banner.jpg 620w, /assets/images/oncology-banner.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -279,14 +279,16 @@ include("../header-base.php");
       <div class="col m12 tp8 t5 d4 text-image-cols__text-wrapper js-text-wrapper" data-anim="false">
                   <!-- <h4></h4> -->
         
-        <!-- <h2>Medication Access</h2> -->
+        <h2>Medication Access</h2>
 
         
   <div class="general-content">
 
     
       
-        <p>Damage to the myelin disrupts the flow of information in the brain and between the brain and the body. In some patients, the nerves may deteriorate and the irreversible damage can affect sensory and motor skills such as eyesight and walking.
+        <p>Epic Pharmacy provides Oncology patients with a comprehensive disease management plan that assists with medication access, drug information and coordination of insurance benefits. Our healthcare team is dedicated to providing the best medical services which are both confidential and individualized based on your specific needs. </p>
+        <p>
+          Our team recognizes the importance of patients accessing their medications right away which is why we maintain a full line of oral Oncology medications so you can begin therapy as quickly as possible.
         </p>
 
       
@@ -312,7 +314,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/sclerosis-1.jpg' data-srcset='../assets/images/sclerosis-1.jpg 620w, ../assets/images/sclerosis-1.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/oncology-billing.jpg' data-srcset='/assets/images/oncology-billing.jpg 750w, /assets/images/oncology-billing.jpg 1200w, ' alt='Insurance &amp; Billing' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -320,15 +322,14 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <!-- <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3> -->
+        <h3 class="listing-blocks__heading">Insurance &amp; Billing</h3>
 
         <div class="listing-blocks__content">
-                      <p>Epic Pharmacy provides specialty medications for the treatment of multiple sclerosis – including the latest, most advanced drugs that focus on disease-modifying versus symptomatic treatment. Our complete system of care is vital for patients with multiple sclerosis and other chronic medical conditions, providing them with access to services that support improved quality of life and the best possible medical outcomes.</p>
-
-                      
-
-
-                      
+                      <p>At Epic Pharmacy, our reimbursement specialists handle coordination of benefits and are attentive to real life issues such as cost access and coping. We gladly assist in prior authorization approvals and accept all insurance policies. We understand these medications can often be costly and complex – our pharmacy team is available to be your advocate.</p>
+                      <p>
+                        
+                        We’ll work with your insurance company and the manufacturers of your prescription drugs to ensure coverage of your medication, or we’ll walk you through step-by-step options to receive financial assistance.
+                      </p>
                   </div>
 
               </div>
@@ -345,14 +346,11 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Multiple Sclerosis Types and Specialized Treatment</h3>
+        <h3 class="listing-blocks__heading">Medication Delivery</h3>
 
         <div class="listing-blocks__content">
-                      <p>Multiple sclerosis affects an estimated 2.5 million people worldwide. A disorder of young adults, the disease predominantly targets women with varying levels of severity and symptoms that range from fatigue and mood disturbances to pain, cognitive loss, and motor or sensory impairment.</p>
-
-
-                      <p>There are several multiple sclerosis subtypes. Up to 75% of cases begin with a relapsing-remitting (RRMS) course, which involves acute attacks that are separated in time, with full or partial recovery. The primary-progressive (PPMS) subtype involves a progression of disability with occasional plateaus and temporary minor improvements. Approximately 6-10% of people with multiple sclerosis appear to have PPMS at diagnosis. The secondary-progressive (SPMS) subtype is characterized by progression of the disease at a variable rate.
-                      </p>
+                      <p>
+Epic Pharmacy ensures that you receive your medications on time by providing complimentary nationwide delivery directly to your home. We also provide patients with a customized complimentary Welcome Kit that includes all necessary items for managing your medical condition.</p>
                   </div>
 
               </div>
@@ -362,7 +360,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/sclerosis-4.jpg' data-srcset='../assets/images/sclerosis-4.jpg 620w, ../assets/images/sclerosis-4.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/oncology-medication.jpg' data-srcset='/assets/images/oncology-medication.jpg 750w, /assets/images/oncology-medication.jpg 1200w, ' alt='Medication Delivery' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -380,7 +378,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/sclerosis-2.jpg' data-srcset='../assets/images/sclerosis-2.jpg 620w, ../assets/images/sclerosis-2.jpg 1240w, ' alt='Multiple Sclerosis' width='800' height='800'  data-pin-nopin='true' data-object-fit />            </figure>
+               <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/oncology-support.jpg' data-srcset='/assets/images/oncology-support.jpg 750w, /assets/images/oncology-support.jpg 1200w, ' alt='Support' width='600' height='600'  data-pin-nopin='true' data-object-fit />             </figure>
             </div>
                   </div>
       </div>
@@ -388,27 +386,20 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <!-- <h3 class="listing-blocks__heading">Signs & Symptoms of Asthma</h3> -->
+        <h3 class="listing-blocks__heading">Support</h3>
 
         <div class="listing-blocks__content">
-                      
-                      <p>Our comprehensive system of care combines our comprehensive pharmacy services with other clinical and administrative services to help patients improve their quality of life and achieve the best possible outcomes from their therapy.</p>
-
-                      <p>From care coordination and collaborative planning with the patient’s medical team to our home-based nursing services that specialize in administering injectable and IV drugs, our offerings add up to positive outcomes.</p>
+                      <p>Epic Pharmacy provides medications for oncology patients so that they can enjoy active, fulfilling lives. Cancer presents specific challenges for those who suffer from it, including proper nutrition, rest and dealing with side effects. We value disease education and communication to improve your care and the effectiveness of your prescriptions.
+                      </p>
+                      <p>
+                        Though not intended to replace medical advice from a qualified physician, the resource links provided below can provide additional information and support
+                      </p>
                   </div>
 
               </div>
     </div>
   </div>
 </li>
-
-
-
-
-
-
-
-
                   </ul>
       </div>
       </div>
@@ -434,7 +425,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -453,27 +444,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -497,7 +488,7 @@ include("../header-base.php");
 
         <div class="sister-hotel__inner">
 
-         
+          
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 
@@ -515,8 +506,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

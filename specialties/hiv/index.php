@@ -33,30 +33,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:title" content="Oklahoma HIV Drug Pharmacy  ">
   <meta property="og:description" content="Order HIV retroviral drugs online for home delivery under 2 hours. Call 888-688-0054 toll-free.">
   <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/hiv/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/hiv/">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Oklahoma HIV Drug Pharmacy  ">
   <meta name="twitter:description" content="Order HIV retroviral drugs online for home delivery under 2 hours. Call 888-688-0054 toll-free.">
   <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/hiv/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/hiv/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/hiv/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/hiv/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/hiv/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/hiv/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
 
 
@@ -66,22 +66,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-	<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -193,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -244,7 +244,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/hiv-banner.jpg' data-srcset='../assets/images/hiv-banner.jpg 620w, ../assets/images/hiv-banner.jpg 1240w, ' alt='Tiny Umbrellas Tiki Party' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/hiv-banner.jpg' data-srcset='/assets/images/hiv-banner.jpg 620w, /assets/images/hiv-banner.jpg 1240w, ' alt='Tiny Umbrellas Tiki Party' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -300,7 +300,7 @@ include("../header-base.php");
                         <div class="listing-blocks__fig-wrapper">
                            <div class="listing-blocks__fig-inner">
                               <figure class="listing-blocks__fig cover cover--all">
-                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/hiv-symptoms.jpg' data-srcset='../assets/images/hiv-symptoms.jpg 750w, ../assets/images/hiv-symptoms.jpg 1200w, ' alt='game night' width='600' height='600'  data-pin-nopin='true' data-object-fit />              
+                                 <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/hiv-symptoms.jpg' data-srcset='/assets/images/hiv-symptoms.jpg 750w, /assets/images/hiv-symptoms.jpg 1200w, ' alt='game night' width='600' height='600'  data-pin-nopin='true' data-object-fit />              
                               </figure>
                            </div>
                         </div>
@@ -347,7 +347,7 @@ include("../header-base.php");
                         <div class="listing-blocks__fig-wrapper">
                            <div class="listing-blocks__fig-inner">
                               <figure class="listing-blocks__fig cover cover--all">
-                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/hiv-injection.jpg' data-srcset='../assets/images/hiv-injection.jpg 750w, ../assets/images/hiv-injection.jpg 1200w, ' alt='Canal Club Live' width='600' height='600'  data-pin-nopin='true' data-object-fit />            
+                                 <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/hiv-injection.jpg' data-srcset='/assets/images/hiv-injection.jpg 750w, /assets/images/hiv-injection.jpg 1200w, ' alt='Canal Club Live' width='600' height='600'  data-pin-nopin='true' data-object-fit />            
                               </figure>
                            </div>
                            
@@ -365,7 +365,7 @@ include("../header-base.php");
                         <div class="listing-blocks__fig-wrapper">
                            <div class="listing-blocks__fig-inner">
                               <figure class="listing-blocks__fig cover cover--all">
-                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/hiv-trans.jpg' data-srcset='../assets/images/hiv-trans.jpg 750w, ../assets/images/hiv-trans.jpg 1200w, ' alt='Canal Club Live' width='600' height='600'  data-pin-nopin='true' data-object-fit />              
+                                 <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/hiv-trans.jpg' data-srcset='/assets/images/hiv-trans.jpg 750w, /assets/images/hiv-trans.jpg 1200w, ' alt='Canal Club Live' width='600' height='600'  data-pin-nopin='true' data-object-fit />              
                               </figure>
                            </div>
                         </div>
@@ -422,7 +422,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -441,27 +441,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -503,8 +503,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-US"> <![endif]-->
 <!--[if IE 9]> <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
@@ -12,6 +12,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZLPRNC');</script>
 <!-- End Google Tag Manager -->
+	
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -40,45 +41,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
   
-  <title>Infertility Drugs | Epic Pharmacy</title>
+  <title>Non-sterile Compounding Products | Epic Pharmacy</title>
 
-  <meta name="description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free." >
+  <meta name="description" content="Call 888-688-0054 toll-free to order non-sterile compounding medication in Oklahoma" >
 
-  <meta name="keywords" content="infertility drugs for men and women available, order online from epic pharmacy, refill rx prscription for fertility drugs, bravelle, cetrotide, clomid, crenone and other fertility drugs available, injectable hormones for fertility, best fertility pills, over the counter fertility drugs">
+  <meta name="keywords" content="non-sterile compounding pharmacy in oklahoma,  online pharmacy near me, oklahoma online drugstore, medicine shopping online, buy medicines online with dicount, refill prescriptions online">
 
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Infertility Drugs | Epic Pharmacy">
-  <meta property="og:description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free.">
+  <meta property="og:title" content="Non-sterile Compounding Products | Epic Pharmacy">
+  <meta property="og:description" content="Call 888-688-0054 toll-free to order non-sterile compounding medication in Oklahoma">
   <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/fertility-treatment/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/non-sterile-compounding/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Infertility Drugs | Epic Pharmacy">
-  <meta name="twitter:description" content="Order fertility drugs if you have problem conceiving. Prescription fertility drugs available. Call 888-688-0054 toll-free.">
+  <meta name="twitter:title" content="Non-sterile Compounding Products | Epic Pharmacy">
+  <meta name="twitter:description" content="Call 888-688-0054 toll-free to order non-sterile compounding medication in Oklahoma">
   <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/fertility-treatment/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/non-sterile-compounding/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/fertility-treatment/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/fertility-treatment/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/non-sterile-compounding/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/non-sterile-compounding/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   
+
+
 
 <!-- / Yoast SEO plugin. -->
 
@@ -86,22 +89,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -213,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -234,9 +237,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Fertility Treatment</h1>
+        <h1 data-break="lines">Non Sterile Compounding</h1>
 
-        <p class="p1">Since many years, the team at Epic Pharmacy, has earned a proud reputation for successfully helping couples through all kinds of fertility issues. You aren’t the next case with us… we take the time to get to know you so that we can provide treatment options that best fit your needs.</p>
+        <p class="p1">Epic Pharmacy is focused on superior service and quality medications to assist physicians in providing the best healthcare possible</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -265,7 +268,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/fertility-1.jpg' data-srcset='../assets/images/fertility-1.jpg 620w, ../assets/images/fertility-1.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sterile-1.jpg' data-srcset='/assets/images/sterile-1.jpg 620w, /assets/images/sterile-1.jpg 1240w, ' alt='Sterile' width='800' height='800'  data-pin-nopin='true' data-object-fit />                   </figure>
                 </div>
 
               </div>
@@ -285,11 +288,10 @@ include("../header-base.php");
 
     
       
-        <p>We are dedicated to providing you with the patience, understanding and compassion you deserve during this important time in your life. (BOLD)</p>
+        <p> We have all of the resources available to produce a broad array of custom medications and delivery methods to meet the patient’s individual needs. At Epic Pharmacy, quality and customer service are paramount, we look forward to helping with all of your specialty healthcare needs.</p>
 
-        <p>Deciding to start a family should be a time of great joy and excitement for couples or individuals, but when any fertility challenges arise, the experience can certainly become a struggle.</p>
 
-        <p>For those who are having trouble getting pregnant after several attempts, seeking the help of a fertility specialist may be a good idea. 
+        <p>As your specialty compounding pharmacy, we understand the importance of active patient involvement in the providing of care and believe that improved patient understanding of their health status and related conditions allow them to take a more active role in their care. We believe that care is best delivered through a patient-oriented, participative approach and value our relationship with each patient and physician.
         </p>
 
       
@@ -315,7 +317,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/fertility5.jpg' data-srcset='../assets/images/fertility5.jpg 620w, ../assets/images/fertility5.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sterile-4.jpg' data-srcset='/assets/images/sterile-4.jpg 620w, /assets/images/sterile-4.jpg 1240w, ' alt='Sterile' width='800' height='800'  data-pin-nopin='true' data-object-fit />          </figure>
             </div>
                   </div>
       </div>
@@ -323,14 +325,10 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Diagnosing Health Issues and Making Improvement </h3>
+        <h3 class="listing-blocks__heading pad-bot">Creams</h3>
 
         <div class="listing-blocks__content">
-                      <p>The final thing that couples must assess is their overall physical condition and how they can make improvements to their general health. </p>
-
-                      <p>Issues that prevent pregnancy from occurring can be overwhelming to say the least. Both men and women must pay close attention to their reproductive health, personal health, lifestyle factors, and environmental factors when trying to conceive because even the slightest problem can result in many failed attempts. </p>
-
-                      
+                      <p>Compounded creams can be made into an unlimited number of combinations and strengths based on the patient specific need. Topical creams can be compounded for Hormone Replacement Therapy, Numbing, Pain, Bleaching, Acne and even facial peels and exfoliants.</p>
 
                   </div>
 
@@ -348,12 +346,11 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <!-- <h3 class="listing-blocks__heading">Find Answers with Epic Pharmacy</h3> -->
+        <h3 class="listing-blocks__heading pad-bot">Gels</h3>
 
         <div class="listing-blocks__content">
-                      <p>Some of the most common fertility challenges that women face include PCOS, PID, uterine fibroids, and endometriosis, whereas men may struggle with having a low sperm count, poor sperm health, low testosterone, or issues with sexual performance. That being said, many of these problems for both genders can go unnoticed if they aren't being directly examined, and that's why meeting with a fertility specialist can provide some valuable insight. </p>
-
-                      <p>A fertility specialist at Epic Pharmacy can recommend several ways for both men and women to amend their health issues or prescribe certain medications and procedures to help. Dealing with fertility issues can certainly be a challenge if you're unsure of what to look for, but being aware of your overall health and finding the right support will make a huge difference. </p>
+                      <p>Much like compounded creams a compounded gel can be formulated in much the same way with a comparable array of combinations to include both alcohol containing gel base and alcohol free as well.
+                      </p>
                   </div>
 
               </div>
@@ -363,7 +360,69 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/fertility-2.jpg' data-srcset='../assets/images/fertility-2.jpg 620w, ../assets/images/fertility-2.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sterile-5.jpg' data-srcset='/assets/images/sterile-5.jpg 620w, /assets/images/sterile-5.jpg 1240w, ' alt='Sterile' width='800' height='800'  data-pin-nopin='true' data-object-fit />              </figure>
+            </div>
+                  </div>
+      </div>
+
+      
+    </div>
+  </div>
+</li>
+                      
+
+<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
+  <div class="listing-blocks__wrapper">
+    <div class="cols">
+      <div class="listing-blocks__fig-container col m12 t6 d4">
+        <div class="listing-blocks__fig-wrapper">
+                                <div class="listing-blocks__fig-inner">
+              <figure class="listing-blocks__fig cover cover--all">
+               <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sterile-2.jpg' data-srcset='/assets/images/sterile-2.jpg 620w, /assets/images/sterile-2.jpg 1240w, ' alt='Sterile' width='800' height='800'  data-pin-nopin='true' data-object-fit />              </figure>
+            </div>
+                  </div>
+      </div>
+
+      <div class="listing-blocks__inner col m12 tp8 t6 d4">
+                  <h4 class="listing-blocks__subheading"></h4>
+        
+        <h3 class="listing-blocks__heading pad-bot">Capsules</h3>
+
+        <div class="listing-blocks__content">
+                      
+                      <p>Capsules can be compounded for just about any drug that can be taken orally for a multitude of reasons. They can be compounded to be devoid of fillers or unnecessary additives, they can alter the strength of a drug either upward or downward from what’s commercially available, as well as discontinued drugs can be compounded once they are no longer available on the market or even combinations of drugs that can be combined together for ease of administration or to reduce the amount of capsules to be taken at one time or per day.
+                      </p>
+                  </div>
+
+              </div>
+    </div>
+  </div>
+</li>
+
+
+<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
+  <div class="listing-blocks__wrapper">
+    <div class="cols">
+
+
+      <div class="listing-blocks__inner col m12 tp8 t6 d4">
+                  <h4 class="listing-blocks__subheading"></h4>
+        
+        <h3 class="listing-blocks__heading pad-bot">Troches</h3>
+
+        <div class="listing-blocks__content">
+                      <p>Troches allow for a unique method of administration through the buccal cavity (under the tongue or inside of the cheek), many drugs that will not survive intact when administered orally will be a good candidate for this method of administration as well as drugs that are needed to be absorbed rather quickly.
+                      </p>
+                  </div>
+
+              </div>
+
+
+      <div class="listing-blocks__fig-container col m12 t6 d4">
+        <div class="listing-blocks__fig-wrapper">
+                                <div class="listing-blocks__fig-inner">
+              <figure class="listing-blocks__fig cover cover--all">
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/sterile-3.jpg' data-srcset='/assets/images/sterile-3.jpg 620w, /assets/images/sterile-3.jpg 1240w, ' alt='Sterile' width='800' height='800'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -374,37 +433,11 @@ include("../header-base.php");
 </li>
 
 
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/fertility-4.jpg' data-srcset='../assets/images/fertility-4.jpg 620w, ../assets/images/fertility-4.jpg 1240w, ' alt='Fertility Treatment' width='800' height='800'  data-pin-nopin='true' data-object-fit />           </figure>
-            </div>
-                  </div>
-      </div>
 
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading pad-bot">Find Answers with Epic Pharmacy</h3>
 
-        <div class="listing-blocks__content">
-                      <p>Having the family of your dreams doesn't necessarily mean it has to occur in a certain way. All that matters is that you achieve a healthy, successful pregnancy at a time that's right for you, and we at Epic Pharmacy can make that a reality. </p>
 
-                      <p>If you and your partner have been contemplating seeking the help of a fertility specialist, then hopefully these guidelines will nudge you in the right direction. Feel free to request an appointment today.
-                      </p>
-                  </div>
 
-              </div>
-    </div>
-  </div>
-</li>
-        
-
-        </ul>
+                  </ul>
       </div>
       </div>
 </section>
@@ -429,7 +462,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -448,27 +481,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -510,8 +543,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

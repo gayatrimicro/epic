@@ -1,11 +1,8 @@
-
+ 
 <!DOCTYPE html>
-<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-US"> <![endif]-->
-<!--[if IE 9]> <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
-<!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<html class="no-js" lang="en-US"> 
 
 <head>
-	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -13,13 +10,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZLPRNC');</script>
 <!-- End Google Tag Manager -->
-	
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-
-<!-- Sojern Container Tag cp_v1_js, Pixel Version: 1 -->
 <script>
   (function () {
     
@@ -42,43 +36,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
   
-  <title>Compounded Medicine Store | Epic Pharmacy</title>
+<title>Rheumatoid Arthritis Medication | Epic Pharmacy</title>
 
-  <meta name="description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free." >
+<meta name="description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free." >
 
-  <meta name="keywords" content="how can i  order compounded medications online, compounding pharmacy in oklahoma, oklahoma internet pharmacy, compounded topical medication and creams, compounded medications for neuropathic pain">
+<meta name="keywords" content="Order RA drugs online, NSAIDs for rheumatoid arthritis, DMARDs for rheumatoid arthritis, drugs for treatment of RA, plaquenil, arava, trexall, azulfidine, minocin, order rheumatoid arthritis medication online">
 
 
-  <meta property="og:locale" content="en_US">
-  <meta name="og:site_name" content="Epic Pharmacy"/>
-  <meta property="og:type" content="Website">
-  <meta property="og:title" content="Compounded Medicine Store | Epic Pharmacy">
-  <meta property="og:description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/wound-care/">
+<meta property="og:locale" content="en_US">
+<meta name="og:site_name" content="Epic Pharmacy"/>
+<meta property="og:type" content="Website">
+<meta property="og:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
+<meta property="og:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://epicpharmacyokc.com/specialties/rheumatology/">
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Compounded Medicine Store | Epic Pharmacy">
-  <meta name="twitter:description" content="Top compounded medications available online. Order now from Epic Pharmacy. Call 888-688-0054 toll-free.">
-  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/wound-care/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Rheumatoid Arthritis Medication | Epic Pharmacy">
+<meta name="twitter:description" content="DMARDs & NSAIDs for RA treatment available online @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+<meta name="twitter:image" content="">
+<meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/rheumatology/">
 
-  <meta name="robots" content="index, follow" />
+<meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/wound-care/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/wound-care/" hreflang="en-us" />
+<link rel="canonical" href="https://epicpharmacyokc.com/specialties/rheumatology/">
+<link rel="alternate" href="https://epicpharmacyokc.com/specialties/rheumatology/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
 
 
@@ -88,22 +82,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -214,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->  
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -235,9 +229,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Wound Care</h1>
+        <h1 data-break="lines">Rheumatology</h1>
 
-        <p class="p1">Epic Pharmacy offers custom compounding solutions to patients with hard-to-heal wounds.</p>
+        <p class="p1">Rheumatoid Arthritis is a chronic inflammatory disorder that typically affects the small joints in your hands and feet. </p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -266,7 +260,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/wound-1.jpg' data-srcset='../assets/images/wound-1.jpg 620w, ../assets/images/wound-1.jpg 1240w, ' alt='Wound care' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/rheumatology-1.jpg' data-srcset='/assets/images/rheumatology-1.jpg 620w, /assets/images/rheumatology-1.jpg 1240w, ' alt='rheumatology-2' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -286,9 +280,11 @@ include("../header-base.php");
 
     
       
-        <p>Some wounds, like pressure sores, are difficult to heal. Others, such as burns or ulcers, might suffer tissue disruption or infection when cleaned or treated with traditional medicines. Wound compounding involves several approaches and medications applied topically.</p>
+        <p> Unlike osteoarthritis, which is frequently caused by wear-and-tear of the surface of joints, rheumatoid arthritis affects the lining that protects joints and causes a painful swelling that can eventually result in bone erosion and joint deformity.</p>
 
-        <p>Epic Pharmacy offers many combinations of high quality antibiotics, antifungals, steroids and other ingredients to reduce pain, stimulate new tissue, increase blood flow and soothe the affected area. By combining medications we can achieve better healing.
+        <p>Rheumatoid arthritis is an autoimmune disorder and occurs when the immune system mistakenly attacks the own body’s tissues. In addition to causing joint problems, rheumatoid arthritis sometimes can affect other organs of the body — such as the skin, eyes, lungs and blood vessels.</p>
+
+        <p>Although rheumatoid arthritis can occur at any age, it most commonly begins after age 40 and is much more common among women than men.
         </p>
 
       
@@ -314,7 +310,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/wound-2.jpgg' data-srcset='../assets/images/wound-2.jpg 750w, ../assets/images/wound-2.jpg 1200w, ' alt='wound-2' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/rheumatology-3.jpg' data-srcset='/assets/images/rheumatology-3.jpg 750w, /assets/images/rheumatology-3.jpg 1200w, ' alt='rheumatology-2' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -322,23 +318,54 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Diagnosis and Treatment of Allergies</h3>
+        <!-- <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3> -->
 
         <div class="listing-blocks__content">
-                      <p>Our unique gel base is water soluble, yet still adheres to the wound. This allows for minimal contact with the wound and helps prevent aggravation and/or irritation when cleaning or debriding the wound.</p>
+                      <p>At Epic Pharmacy, we strive to help provide patients the opportunity to gain access to highly targeted therapies that have been proven to control symptoms of rheumatic diseases better than traditional therapies of the past. Our dedicated team of pharmacists, nurses, and technicians are uniquely qualified to assist patients with all aspects of their specialty medications including coordination with physicians and insurance providers, all while providing streamlined, comprehensive care to patients.</p>
 
-                      <p>Topical application is advantageous in that it offers minimal systemic absorption. This decreases the risk of adverse effects and the potential drug-drug interactions associated with systemic medications, which can result in significantly improved healing.</p>
-
-                      <p><strong>Talk to your Physician today to find out more about these new, innovative treatment options.</strong></p>
+                      
                   </div>
 
               </div>
     </div>
   </div>
 </li>
+                      
+
+<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
+  <div class="listing-blocks__wrapper">
+    <div class="cols">
+
+
+      <div class="listing-blocks__inner col m12 tp8 t6 d4">
+                  <h4 class="listing-blocks__subheading"></h4>
+        
+        <!-- <h3 class="listing-blocks__heading">Asthma / Chronic Cough</h3> -->
+
+        <div class="listing-blocks__content">
+                      <p>Our dedicated team of pharmacists, nurses, and technicians are uniquely qualified to assist patients with all aspects of their specialty medications including coordination with physicians and insurance providers, all while providing streamlined, comprehensive care to patients.</p>
+
+                      <p>Best of all, patients have 24/7 access to our on-call pharmacy support team and can expect their medication to be delivered to the front door with no extra costs.
+                      </p>
+                  </div>
+
+              </div>
+
+
+      <div class="listing-blocks__fig-container col m12 t6 d4">
+        <div class="listing-blocks__fig-wrapper">
+                                <div class="listing-blocks__fig-inner">
+              <figure class="listing-blocks__fig cover cover--all">
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/rheumatology-2.jpg' data-srcset='/assets/images/rheumatology-2.jpg 750w, /assets/images/rheumatology-2.jpg 1200w, ' alt='rheumatology-2.jpg' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
+            </div>
+                  </div>
+      </div>
+
       
-
-
+    </div>
+  </div>
+</li>
+        
 
 
 
@@ -367,7 +394,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -386,27 +413,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -430,33 +457,7 @@ include("../header-base.php");
 
         <div class="sister-hotel__inner">
 
-          <!-- <ul class="sister-hotel__list">
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="122" height="13" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/la-playa-carmel.png" width="119" height="28" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/laguna-beach.png" width="58" height="52" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/the-inn-at-laguna.png" width="90" height="44" alt="" />
-              </a>
-            </li>
-          </ul> -->
+          
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 
@@ -474,8 +475,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

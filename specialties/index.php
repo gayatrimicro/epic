@@ -255,7 +255,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../oncology' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='oncology/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1oncology.jpg' data-srcset='../assets/images/1oncology.jpg 750w, ../assets/images/1oncology.jpg 1200w, ' width='800' height='800' alt="Oncology" data-pin-nopin='true' />              </figure>
             </div>
@@ -271,7 +271,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../oncology' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
+            <a href='oncology/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
               </div>
     </div>
   </div>
@@ -283,7 +283,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../hiv' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='hiv/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1hiv.jpg' data-srcset='../assets/images/1hiv.jpg 750w, ../assets/images/1hiv.jpg 1200w, ' alt='HIV / Aids' width='800' height='800'  data-pin-nopin='true' />              </figure>
             </div>
@@ -299,7 +299,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../hiv' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='hiv/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -311,7 +311,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../rheumatology' target='_self'>            
+          <a href='rheumatology/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1rheumatology.jpg' data-srcset='../assets/images/1rheumatology.jpg 750w, ../assets/images/1rheumatology.jpg 1200w, ' alt="Rheumatology" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -328,7 +328,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../rheumatology' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='rheumatology/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -341,7 +341,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../gastroenterology' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='gastroenterology/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1gastroenterology.jpg' data-srcset='../assets/images/1gastroenterology.jpg 750w, ../assets/images/1gastroenterology.jpg 1200w, ' width='800' height='800' alt="Gastroenterology" data-pin-nopin='true' />              </figure>
             </div>
@@ -357,7 +357,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../gastroenterology' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
+            <a href='gastroenterology/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
               </div>
     </div>
   </div>
@@ -369,7 +369,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../wound-care' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='wound-care/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1wound.jpg' data-srcset='../assets/images/1wound.jpg 750w, ../assets/images/1wound.jpg 1200w, ' alt='Wound Care' width='800' height='800'  data-pin-nopin='true' />              </figure>
             </div>
@@ -385,7 +385,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../wound-care' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='wound-care/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -397,7 +397,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../urology' target='_self'>            
+          <a href='urology/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1urology.jpg' data-srcset='../assets/images/1urology.jpg 750w, ../assets/images/1urology.jpg 1200w, ' alt="Urology" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -414,7 +414,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../urology' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='urology/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -456,7 +456,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../transplant' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='transplant/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1transplant.jpg' data-srcset='../assets/images/1transplant.jpg 750w, ../assets/images/1transplant.jpg 1200w, ' alt='Transplant' width='800' height='800'  data-pin-nopin='true' />              </figure>
             </div>
@@ -472,7 +472,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../transplant' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='transplant/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -484,7 +484,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../multiple-sclerosis' target='_self'>            
+          <a href='multiple-sclerosis/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1sclerosis.jpg' data-srcset='../assets/images/1sclerosis.jpg 750w, ../assets/images/1sclerosis.jpg 1200w, ' alt="Multiple sclerosis" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -501,7 +501,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../multiple-sclerosis' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='multiple-sclerosis/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -514,7 +514,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../ophthalmology' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='ophthalmology/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1ophthalmology.jpg' data-srcset='../assets/images/1ophthalmology.jpg 750w, ../assets/images/1ophthalmology.jpg 1200w, ' width='800' height='800' alt="Ophthalmology" data-pin-nopin='true' />              </figure>
             </div>
@@ -530,7 +530,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../ophthalmology' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
+            <a href='ophthalmology/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>          </div>
               </div>
     </div>
   </div>
@@ -542,7 +542,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-                    <a href='../non-sterile-compounding' target='_self'>            <div class="listing-blocks__fig-inner">
+                    <a href='non-sterile-compounding/' target='_self'>            <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1compounding.jpg' data-srcset='../assets/images/1compounding.jpg 750w, ../assets/images/1compounding.jpg 1200w, ' alt='Non Sterile Compounding' width='800' height='800'  data-pin-nopin='true' />              </figure>
             </div>
@@ -558,7 +558,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../non-sterile-compounding' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='non-sterile-compounding/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -570,7 +570,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../fertility-treatment' target='_self'>            
+          <a href='fertility-treatment/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1fertility.jpg' data-srcset='../assets/images/1fertility.jpg 750w, ../assets/images/1fertility.jpg 1200w, ' alt="Fertility" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -587,7 +587,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../fertility-treatment' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='fertility-treatment/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -599,7 +599,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../asthma' target='_self'>            
+          <a href='asthma/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1asthma.jpg' data-srcset='../assets/images/1asthma.jpg 750w, ../assets/images/1asthma.jpg 1200w, ' alt="Asthma Allergy" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -616,7 +616,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../asthma' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='asthma/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>
@@ -630,7 +630,7 @@ include("../header-base.php");
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
         <div class="listing-blocks__fig-wrapper">
-          <a href='../mental-health' target='_self'>            
+          <a href='mental-health/' target='_self'>            
             <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/1mental.jpg' data-srcset='../assets/images/1mental.jpg 750w, ../assets/images/1mental.jpg 1200w, ' alt="Asthma Allergy" width='800' height='800'  data-pin-nopin='true' />                </figure>
@@ -647,7 +647,7 @@ include("../header-base.php");
                   </div>
 
                   <div class="listing-blocks__cta">
-            <a href='../mental-health' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
+            <a href='mental-health/' role='link' aria-label='BOOK NOW' class='secondary-link js-block' data-block='button-block'  target='_self' ><span>V</span><span>I</span><span>E</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></a>        
           </div>
         </div>
     </div>

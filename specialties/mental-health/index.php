@@ -1,11 +1,8 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-US"> <![endif]-->
-<!--[if IE 9]> <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
-<!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<html class="no-js" lang="en-US"> 
 
 <head>
-	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -19,66 +16,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<!-- Sojern Container Tag cp_v1_js, Pixel Version: 1 -->
-<script>
-  (function () {
-    
-    var params = {
-      hpid: "14407", 
-      pt: "TRACKING" 
-    };
-
-    
-    var paramsArr = [];
-    for(key in params) { paramsArr.push(key + '=' + encodeURIComponent(params[key])) };
-
-    var pl = document.createElement('script');
-    pl.type = 'text/javascript';
-    pl.async = true;
-    pl.src = "https://beacon.sojern.com/pixel/cp/21?f_v=cp_v1_js&p_v=1&" + paramsArr.join('&');
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
-  })();
-</script>
-<!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
   
-  <title>Urology Specialty Drugs | Epic Pharmacy</title>
+  <title>Mental Health Medication Online | Epic Pharmacy</title>
 
-  <meta name="description" content="Bladder control, Urinary infection medication available at Epic Pharmacy. Call 888-688-0054 toll-free." >
+  <meta name="description" content="Order drugs that treat mental illness from Epic Pharmacy online. Anti-depressants, anti-anxiety & psychotropic medications" >
 
-  <meta name="keywords" content="">
+  <meta name="keywords" content="online order of SSRIs, prozac, lexapro, celexa, from epic pharmacy, medication for mental illness, order common psychiatric drugs online, medicine shopping online, buy medicines online with dicount, refill prescriptions online">
 
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Urology Specialty Drugs | Epic Pharmacy">
-  <meta property="og:description" content="Bladder control, Urinary infection medication available at Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta property="og:title" content="Mental Health Medication Online | Epic Pharmacy">
+  <meta property="og:description" content="Order drugs that treat mental illness from Epic Pharmacy online. Anti-depressants, anti-anxiety & psychotropic medications">
   <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/urology/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/mental-health/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Urology Specialty Drugs | Epic Pharmacy">
-  <meta name="twitter:description" content="Bladder control, Urinary infection medication available at Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta name="twitter:title" content="Mental Health Medication Online | Epic Pharmacy">
+  <meta name="twitter:description" content="Order drugs that treat mental illness from Epic Pharmacy online. Anti-depressants, anti-anxiety & psychotropic medications">
   <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/urology/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/mental-health/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/urology/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/urology/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/mental-health/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/mental-health/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   
 
@@ -88,22 +64,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -214,7 +190,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->  
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -235,9 +211,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines"> Urology</h1>
+        <h1 data-break="lines">Mental Health</h1>
 
-        <p class="p1">Epic Pharmacy provides expert custom compounding for all of your urology prescription needs.</p>
+        <p class="p1">Many people with mental health problems experience poorer care than they should, and much of this relates to getting the right treatment. Pharmacists can play a vital role in providing accessible services to support people’s mental health, not only to help people get the most from their medicines, but also around looking after their general health and wellbeing </p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -266,7 +242,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/urology-1.jpg' data-srcset='../assets/images/urology-1.jpg 620w, ../assets/images/urology-1.jpg 1240w, ' alt='Urology' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/mental-1.jpg' data-srcset='/assets/images/mental-1.jpg 620w, /assets/images/mental-1.jpg 1240w, ' alt='mental-2' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -279,25 +255,17 @@ include("../header-base.php");
       <div class="col m12 tp8 t5 d4 text-image-cols__text-wrapper js-text-wrapper" data-anim="false">
                   <!-- <h4></h4> -->
         
-        <!-- <h2></h2> -->
+        <h3 class="listing-blocks__heading">Make mental health care a core part of existing and new services </h3>
 
         
   <div class="general-content">
 
-    <p>Urology is the medical specialty that treats your urinary and reproductive systems. Urologists diagnose and treat a variety of conditions, such as:</p>
-      <ol>
-          <li>Benign Prostate Enlargement</li>
-          <li>Prostate Infections</li>
-          <li>Prostate Cancer</li>
-          <li>Kidney Stones</li>
-          <li>Kidney Cancer</li>
-          <li>Erection Problems</li>
-          <li>Bladder Control Problem</li>
-          <li>Bladder Leakage (Incontinence)</li>
-          <li>Bladder/Urinary Tract Infections</li>
-          <li>Bladder Cancer</li>
-          <li>Testicular Cancer   </li>
-        </ol>
+    
+      
+        <p> Any services offered by Epic pharmacy would routinely take into account mental health, it is crucial that in a generalist setting mental health is not separated out and treated as something different to other care. Epic Pharmacy considers mental health problems when talking to patients newly diagnosed with a long-term condition.</p> 
+
+        <p>Similarly if a at Epic Pharmacy we see a patient, or if our pharmacist reviews a patient’s medicines, the pharmacist would know when and how to initiate conversations about mental health. When patients are discharged from acute trusts and referred to Epic pharmacy for follow up mental health needs are routinely considered.
+        </p>
 
       
     
@@ -322,7 +290,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/urology-2.jpg' data-srcset='../assets/images/urology-2.jpg 620w, ../assets/images/urology-2.jpg 1240w, ' alt='Urology' width='800' height='800'  data-pin-nopin='true' data-object-fit />                </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/mental-3.jpg' data-srcset='/assets/images/mental-3.jpg 750w, /assets/images/mental-3.jpg 1200w, ' alt='mental-2' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -330,23 +298,15 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Common Urology Medications, Customized Dosage Forms </h3>
+        <h3 class="listing-blocks__heading">Early identification of mental health problems</h3>
+        <br><br>
 
         <div class="listing-blocks__content">
-                      <!-- <p>After a comprehensive clinical evaluation, where appropriate, allergy testing may be recommended. We offer both skin and blood testing for foods, environmental, insect stings, and certain drug allergies.</p> -->
+                      <p>Early identification of depression and anxiety is a potential role for our pharmacists working in primary and community care settings, and in acute trusts. Our Pharmacists and their teams are aware of common trigger points (for example, bereavement or diagnosis of a long term condition ) in order to help early identification of illness. Trigger points would prompt the question “how does this make you feel?”</p>
 
-                      <p>Epic Pharmacy can compound all of the commonly prescribed urology medications, in custom combinations and dosage forms, including:</p>
+                      <p>At Epic Pharmacy any services that focus on early identification are integrated with local care pathways with signposting options, and referral criteria and pathways defined to ensure that a person centred and system wide approach is taken.</p>
 
-                    <ol>
-                        <li>Capsules</li>
-                        <li>Creams</li>
-                        <li>Gels</li>
-                        <li>Oral Liquids</li>
-                        <li>Sterile Injectables</li>
-                        <li>Rapid Dissolve Tabs</li>
-                        <li>Suppositories</li>
-                        <li>Troches (custom-flavored lozenges that dissolve in your mouth)</li>
-                      </ol>
+                      
                   </div>
 
               </div>
@@ -363,10 +323,10 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading pad-bot">Contact Epic Pharmacy for Expert, Discreet Urology Compounding</h3>
-
+        <h3 class="listing-blocks__heading">Integrate services for ongoing monitoring of medicines</h3>
+         <br><br>
         <div class="listing-blocks__content">
-                      <p>Your Epic Pharmacy compounding pharmacist is ready to with your physician to develop a dosage form to fit your precise needs. Contact Epic Pharmacy today--we are committed to serving your urological needs with experience, sensitivity and discretion.
+                      <p>As well as early identification of people suffering from mental health problems, our pharmacists and their teams also have the potential to support ongoing treatment and monitoring of existing patients. Pharmacists at Epic can support reviews of long term medicines given regular trigger points to identify need and open communication with the multidisciplinary team.
                       </p>
                   </div>
 
@@ -377,7 +337,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/urology-3.jpg' data-srcset='../assets/images/urology-3.jpg 620w, ../assets/images/urology-3.jpg 1240w, ' alt='Urology' width='800' height='800'  data-pin-nopin='true' data-object-fit />                </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/mental-2.jpg' data-srcset='/assets/images/mental-2.jpg 750w, /assets/images/mental-2.jpg 1200w, ' alt='mental-2.jpg' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -386,12 +346,7 @@ include("../header-base.php");
     </div>
   </div>
 </li>
-                      
-
-
-
-
-
+        
 
 
 
@@ -420,7 +375,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -439,27 +394,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -483,33 +438,7 @@ include("../header-base.php");
 
         <div class="sister-hotel__inner">
 
-          <!-- <ul class="sister-hotel__list">
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="122" height="13" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/la-playa-carmel.png" width="119" height="28" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/laguna-beach.png" width="58" height="52" alt="" />
-              </a>
-            </li>
-            <li class="sister-hotel__list-item">
-              <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/the-inn-at-laguna.png" width="90" height="44" alt="" />
-              </a>
-            </li>
-          </ul> -->
+          
 
           <a href='javascript:void(0);' role='link' aria-label='' class='button js-block' data-block='button-block'  target='_self' ><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span><span><span>E</span><span>x</span><span>p</span><span>l</span><span>o</span><span>r</span><span>e</span><span> </span><span>c</span><span>l</span><span>a</span><span>s</span><span>s</span><span>i</span><span>c</span><span> </span><span>h</span><span>o</span><span>t</span><span>e</span><span>l</span><span>s</span><span> </span><span>&</span><span> </span><span>r</span><span>e</span><span>s</span><span>o</span><span>r</span><span>t</span><span>s</span></span></a>        </div>
 
@@ -527,8 +456,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

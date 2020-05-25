@@ -5,7 +5,6 @@
 <!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 
 <head>
-	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -42,43 +41,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Sojern Tag -->
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
   
-  <title>Cancer Drug Therapy Store | Epic Pharmacy</title>
+  <title>Gastrointestinal Medications | Epic Pharmacy</title>
 
-  <meta name="description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order" >
+  <meta name="description" content="Drugs for treatment of GI disorders available @ Epic Pharmacy. Call 888-688-0054 toll-free." >
 
-  <meta name="keywords" content="cancer drugs for treatment, abiraterone, chemotherapy medications, cancer medications, adriamycin, drugs for breast cancer, drugs for prostate cancer, drugs for oral cancer, oncology specialty medications">
+  <meta name="keywords" content="gi medications online, proton pump inhibitors, antacids, antidiarrheals, gastrointestinal drug treatments online order delivery, over the counter drugs for gatrointestinal disorders">
 
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
-  <meta property="og:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
-  <meta property="og:image" content="">
-  <meta property="og:url" content="https://epicpharmacyokc.com/oncology/">
+  <meta property="og:title" content="Gastrointestinal Medications | Epic Pharmacy">
+  <meta property="og:description" content="Drugs for treatment of GI disorders available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta property="og:url" content="https://epicpharmacyokc.com/specialties/gastroenterology/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Cancer Drug Therapy Store | Epic Pharmacy">
-  <meta name="twitter:description" content="Oncology & cancer drug therapy medications available online. Call  888-688-0054 toll-free to order">
-  <meta name="twitter:image" content="">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/oncology/">
+  <meta name="twitter:title" content="Gastrointestinal Medications | Epic Pharmacy">
+  <meta name="twitter:description" content="Drugs for treatment of GI disorders available @ Epic Pharmacy. Call 888-688-0054 toll-free.">
+  <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/specialties/gastroenterology/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/oncology/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/oncology/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/specialties/gastroenterology/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/specialties/gastroenterology/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
 
 
@@ -88,22 +87,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='/indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -208,13 +207,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <body class="page-template-default page page-id-33" data-load="false" data-menu="false" data-reservation="false" data-scrolled="false">
 
-<!-- Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLPRNC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->  
+<!-- End Google Tag Manager (noscript) -->
+  
 
 <?php
-include("../header-base.php");
+include("/header-base.php");
 ?>
 
 
@@ -235,9 +235,9 @@ include("../header-base.php");
       
         <h4>Services</h4>
         
-        <h1 data-break="lines">Oncology</h1>
+        <h1 data-break="lines">Gastroenterology</h1>
 
-        <p class="p1">Epic Pharmacy pharmacists are uniquely trained to supervise prescribed drug therapies for cancer patients.</p>
+        <p class="p1">Epic Pharmacy is well versed in gastrointestinal disorders. Compounding plays an important role in the treatment of gastrointestinal (GI) disorders.</p>
 
         <!-- <p class="p1"><span style="font-weight: 400;">At Epic Pharmacy, we understand the diagnosis of cancer is scary. We also understand that cancer is a complex disease and that each patient requires a unique treatment plan. With our large inventory of oral oncology medications and our experienced, compassionate team who are focused on providing service of exceptional quality, we want your prescription needs to be the least stressful part of your therapy.</span>
         </p> -->
@@ -266,7 +266,7 @@ include("../header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-banner.jpg' data-srcset='../assets/images/oncology-banner.jpg 620w, ../assets/images/oncology-banner.jpg 1240w, ' alt='Medication Access' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/gastroenterology-1.jpg' data-srcset='/assets/images/gastroenterology-1.jpg 620w, /assets/images/gastroenterology-1.jpg 1240w, ' alt='Personalized Approach' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -279,16 +279,17 @@ include("../header-base.php");
       <div class="col m12 tp8 t5 d4 text-image-cols__text-wrapper js-text-wrapper" data-anim="false">
                   <!-- <h4></h4> -->
         
-        <h2>Medication Access</h2>
+        <h2>A Personalized Approach to the Patient Experience</h2>
 
         
   <div class="general-content">
 
     
       
-        <p>Epic Pharmacy provides Oncology patients with a comprehensive disease management plan that assists with medication access, drug information and coordination of insurance benefits. Our healthcare team is dedicated to providing the best medical services which are both confidential and individualized based on your specific needs. </p>
-        <p>
-          Our team recognizes the importance of patients accessing their medications right away which is why we maintain a full line of oral Oncology medications so you can begin therapy as quickly as possible.
+        <p>Epic Pharmacy has the experience to help patients with GI complaints. We pride ourselves in being the medicinal problem solvers, and together, we can improve the quality of life of patients.</p>
+
+          
+        <p>We review all of the medications our patients are taking. Then we dive deep into their medical history to provide complete medication therapy management. This comprehensive standard of care means higher adherence levels and healthier patients.
         </p>
 
       
@@ -314,7 +315,7 @@ include("../header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-billing.jpg' data-srcset='../assets/images/oncology-billing.jpg 750w, ../assets/images/oncology-billing.jpg 1200w, ' alt='Insurance &amp; Billing' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/gastroenterology-2.jpg' data-srcset='/assets/images/gastroenterology-2.jpg 750w, /assets/images/gastroenterology-2.jpg 1200w, ' alt='Disease Progression' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
             </div>
                   </div>
       </div>
@@ -322,84 +323,34 @@ include("../header-base.php");
       <div class="listing-blocks__inner col m12 tp8 t6 d4">
                   <h4 class="listing-blocks__subheading"></h4>
         
-        <h3 class="listing-blocks__heading">Insurance &amp; Billing</h3>
+        <!-- <h3 class="listing-blocks__heading">Diagnosis and Treatment of Allergies</h3> -->
 
         <div class="listing-blocks__content">
-                      <p>At Epic Pharmacy, our reimbursement specialists handle coordination of benefits and are attentive to real life issues such as cost access and coping. We gladly assist in prior authorization approvals and accept all insurance policies. We understand these medications can often be costly and complex – our pharmacy team is available to be your advocate.</p>
-                      <p>
-                        
-                        We’ll work with your insurance company and the manufacturers of your prescription drugs to ensure coverage of your medication, or we’ll walk you through step-by-step options to receive financial assistance.
-                      </p>
+                      <ol>
+                        <li>Reducing and/or Delaying Disease Progression</li>
+                        <li>Enhancing Patient’s Quality of Life and Satisfaction</li>
+                        <li>Keeping Patients in the Workforce and/or School Longer</li>
+                        <li>Decreasing Healthcare Costs</li>
+                        <li>Monitor Medication Adherence</li>
+                        <li>Managing Medication Side Effects</li>
+                        <li>Recognizing and Responding to Suboptimal Responses to Therapy</li>
+                      </ol>
+
+
+
+
+
+
+
+                      <p>If you’re living with an inflammatory bowel disease we’re here for you.</p>
                   </div>
 
               </div>
     </div>
   </div>
 </li>
-                      
+    
 
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading">Medication Delivery</h3>
-
-        <div class="listing-blocks__content">
-                      <p>
-Epic Pharmacy ensures that you receive your medications on time by providing complimentary nationwide delivery directly to your home. We also provide patients with a customized complimentary Welcome Kit that includes all necessary items for managing your medical condition.</p>
-                  </div>
-
-              </div>
-
-
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-medication.jpg' data-srcset='../assets/images/oncology-medication.jpg 750w, ../assets/images/oncology-medication.jpg 1200w, ' alt='Medication Delivery' width='600' height='600'  data-pin-nopin='true' data-object-fit />              </figure>
-            </div>
-                  </div>
-      </div>
-
-      
-    </div>
-  </div>
-</li>
-                      
-
-<li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
-  <div class="listing-blocks__wrapper">
-    <div class="cols">
-      <div class="listing-blocks__fig-container col m12 t6 d4">
-        <div class="listing-blocks__fig-wrapper">
-                                <div class="listing-blocks__fig-inner">
-              <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/oncology-support.jpg' data-srcset='../assets/images/oncology-support.jpg 750w, ../assets/images/oncology-support.jpg 1200w, ' alt='Support' width='600' height='600'  data-pin-nopin='true' data-object-fit />             </figure>
-            </div>
-                  </div>
-      </div>
-
-      <div class="listing-blocks__inner col m12 tp8 t6 d4">
-                  <h4 class="listing-blocks__subheading"></h4>
-        
-        <h3 class="listing-blocks__heading">Support</h3>
-
-        <div class="listing-blocks__content">
-                      <p>Epic Pharmacy provides medications for oncology patients so that they can enjoy active, fulfilling lives. Cancer presents specific challenges for those who suffer from it, including proper nutrition, rest and dealing with side effects. We value disease education and communication to improve your care and the effectiveness of your prescriptions.
-                      </p>
-                      <p>
-                        Though not intended to replace medical advice from a qualified physician, the resource links provided below can provide additional information and support
-                      </p>
-                  </div>
-
-              </div>
-    </div>
-  </div>
-</li>
                   </ul>
       </div>
       </div>
@@ -425,7 +376,7 @@ Epic Pharmacy ensures that you receive your medications on time by providing com
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '/footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -444,27 +395,27 @@ Epic Pharmacy ensures that you receive your medications on time by providing com
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -506,8 +457,8 @@ Epic Pharmacy ensures that you receive your medications on time by providing com
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   
