@@ -506,7 +506,8 @@ Epic Pharmacy ensures that you receive your medications on time by providing com
 
   
   
-<script src="https://epicpharmacyokc.com/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="https://epicpharmacyokc.com/wp-content/themes/epic-assets/static/dist/app-34e4992137.js" async></script>
+<!-- <script src="https://epicpharmacyokc.com/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script> -->
 <script src="https://epicpharmacyokc.com/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
