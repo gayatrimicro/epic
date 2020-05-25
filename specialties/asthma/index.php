@@ -68,17 +68,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="canonical" href="https://epicpharmacyokc.com/specialties/asthma/">
   <link rel="alternate" href="https://epicpharmacyokc.com/specialties/asthma/" hreflang="en-us" />
   
-  <link rel="apple-touch-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="/wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
 
 <!-- / Yoast SEO plugin. -->
@@ -87,22 +87,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 
-		<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='../../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='/wp-json/index.html' />
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
 
 
-<link rel='shortlink' href='/indexd8eb.html?p=17' />
+<link rel='shortlink' href='../../indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
-<!-- <link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="/wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<!-- <link rel="stylesheet" href="../../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
+<link rel="stylesheet" href="../../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
   .custom-site-header {
@@ -214,7 +214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
 <?php
-include("/header-base.php");
+include("../../header-base.php");
 ?>
 
 
@@ -266,7 +266,7 @@ include("/header-base.php");
               <div class="text-image-cols__image-inner">
 
                 <div class="text-image-cols__image">
-                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/asthma-4.jpg' data-srcset='/assets/images/asthma-4.jpg 620w, /assets/images/asthma-4.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
+                  <figure class='text-image-cols__fig cover cover--all cover--crop-center'><img class='lazyload' data-sizes='auto' data-lowsrc='../../assets/images/asthma-4.jpg' data-srcset='../../assets/images/asthma-4.jpg 620w, ../../assets/images/asthma-4.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />                  </figure>
                 </div>
 
               </div>
@@ -314,7 +314,7 @@ include("/header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/asthma-3.jpg' data-srcset='/assets/images/asthma-3.jpg 620w, /assets/images/asthma-3.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />            </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../../assets/images/asthma-3.jpg' data-srcset='../../assets/images/asthma-3.jpg 620w, ../../assets/images/asthma-3.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />            </figure>
             </div>
                   </div>
       </div>
@@ -369,7 +369,7 @@ include("/header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/asthma-2.jpg' data-srcset='/assets/images/asthma-2.jpg 620w, /assets/images/asthma-2.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />               </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../../assets/images/asthma-2.jpg' data-srcset='../../assets/images/asthma-2.jpg 620w, ../../assets/images/asthma-2.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />               </figure>
             </div>
                   </div>
       </div>
@@ -387,7 +387,7 @@ include("/header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-               <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/asthma-5.jpg' data-srcset='/assets/images/asthma-5.jpg 620w, /assets/images/asthma-5.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />           </figure>
+               <img class='lazyload' data-sizes='auto' data-lowsrc='../../assets/images/asthma-5.jpg' data-srcset='../../assets/images/asthma-5.jpg 620w, ../../assets/images/asthma-5.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />           </figure>
             </div>
                   </div>
       </div>
@@ -450,7 +450,7 @@ include("/header-base.php");
         <div class="listing-blocks__fig-wrapper">
                                 <div class="listing-blocks__fig-inner">
               <figure class="listing-blocks__fig cover cover--all">
-                <img class='lazyload' data-sizes='auto' data-lowsrc='/assets/images/asthma-1.jpg' data-srcset='/assets/images/asthma-1.jpg 620w, /assets/images/asthma-1.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
+                <img class='lazyload' data-sizes='auto' data-lowsrc='../../assets/images/asthma-1.jpg' data-srcset='../../assets/images/asthma-1.jpg 620w, ../../assets/images/asthma-1.jpg 1240w, ' alt='asthma-1' width='800' height='800'  data-pin-nopin='true' data-object-fit />             </figure>
             </div>
                   </div>
       </div>
@@ -490,7 +490,7 @@ include("/header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '/footer.php';?>
+             <?php include '../../footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -509,27 +509,27 @@ include("/header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="/wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -571,8 +571,8 @@ include("/header-base.php");
 
   
   
-<script src="/wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="/wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="../../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="../../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   

@@ -230,20 +230,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <ul class="text-carousel-cols__image-titles">
                            <!-- <li><h4><a href="gastroenterology" style="text-decoration: none !important;">Gastroenterology </a></h4></li> -->
                            <li>
-                              <h4><a href="oncology" style="text-decoration: none !important;">Oncology</a></h4>
+                              <h4><a href="specialties/oncology/" style="text-decoration: none !important;">Oncology</a></h4>
                            </li>
                            <li>
-                              <h4><a href="hiv" style="text-decoration: none !important;">HIV/AIDS</a></h4>
+                              <h4><a href="specialties/hiv/" style="text-decoration: none !important;">HIV/AIDS</a></h4>
                            </li>
                            <li>
-                              <h4><a href="rheumatology/" style="text-decoration: none !important;">Rheumatology</h4>
+                              <h4><a href="specialties/rheumatology/" style="text-decoration: none !important;">Rheumatology</h4>
                               </a>
                            </li>
                            <li>
-                              <h4><a href="gastroenterology/" style="text-decoration: none !important;">Gastroenterology </a></h4>
+                              <h4><a href="specialties/gastroenterology/" style="text-decoration: none !important;">Gastroenterology </a></h4>
                            </li>
                            <li>
-                              <h4><a href="wound-care/" style="text-decoration: none !important;">Wound Care </a></h4>
+                              <h4><a href="specialties/wound-care/" style="text-decoration: none !important;">Wound Care </a></h4>
                            </li>
                         </ul>
                         <a href='specialties/' role='link' aria-label='Have a question?' class='button js-block' data-block='button-block'  rel='noopener noreferrer'>
