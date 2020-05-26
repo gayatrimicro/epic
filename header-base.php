@@ -997,7 +997,7 @@ form{
                                 data:formdata,
                                 success:function(result){
                                 alert("Your enquiry has been sent successfully");
-
+                                $(".close-modal").click();
                                 $("#enquiry_fprm").trigger('reset');
 
                                     
