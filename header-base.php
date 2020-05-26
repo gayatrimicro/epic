@@ -942,26 +942,26 @@ form{
 
 
       <div class="form-group">
-      <input type="text" placeholder="First Name.." name="firstname" class="form-control" id="firstname" required>
+      <input type="text" placeholder="First Name*" name="firstname" class="form-control" id="firstname" required>
       </div>
 
       
       <div class="form-group">
-      <input type="text" placeholder="Last Name.." name="lastname" class="form-control" id="lastname" required>
+      <input type="text" placeholder="Last Name*" name="lastname" class="form-control" id="lastname" required>
       </div>
 
 
 
      <div class="form-group">
-     <input type="email" class="form-control" name="email" placeholder="Enter Your E-mail address" id="email" required>
+     <input type="email" class="form-control" name="email" placeholder="Enter Your E-mail address*" id="email" required>
      </div>
 
      <div class="form-group">
-     <input type="number" maxlength="10" minlength="10" class="form-control" name="phone" placeholder="Enter Your Phone Number" id="phone" required>
+     <input type="number" maxlength="10" minlength="10" class="form-control" name="phone" placeholder="Enter Your Phone Number*" id="phone" required>
      </div>
 
      <div class="form-group">
-     <textarea cols="10" id="text_area" rows="10" name="text_area" placeholder="Write Your Messages.." class="form-control" required></textarea>
+     <textarea cols="10" id="text_area" rows="10" name="text_area" placeholder="Write Your Messages*" class="form-control" required></textarea>
      </div>
 
 

@@ -40,18 +40,15 @@
 	                   ".  $emailid ."</td>
 	                 </tr>
 
-
 	   			  	<tr>
 	                   <td align='left' width='35%'><strong>Phone number :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $pnumber ."</td>
 	                 </tr>
 
-	   			  	
-	                 
 	               </table>";  
 	              
-	  	  if(mail("roxanetlowry@gmail.com", $subject, $message, $headers))
+	  	  if(mail("epicrx@epicpharmacyokc.com,aarielalmeida88@gmail.com", $subject, $message, $headers))
 			  //if(mail("roxanetlowry@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
