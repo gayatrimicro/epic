@@ -48,7 +48,11 @@
 {
 	display: block;
 	margin-bottom: 15px;
-	text-decoration: underline;
+    cursor: default;
+}
+.minSec a:hover
+{
+    color: #000;
 }
 .minSec a:after
 {

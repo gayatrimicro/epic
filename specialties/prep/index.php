@@ -46,17 +46,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="canonical" href="https://epicpharmacyokc.com/services/">
   <link rel="alternate" href="https://epicpharmacyokc.com/services/" hreflang="en-us" />
 
-  <link rel="apple-touch-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="apple-touch-icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="icon" type="image/png" sizes="16x16" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="manifest" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="manifest" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
-  <link rel="mask-icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
+  <link rel="mask-icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png" color="#455d58">
 
-  <link rel="shortcut icon" href="../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
+  <link rel="shortcut icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
   
 
@@ -69,22 +69,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min6619.css?ver=5.2.5' type='text/css' media='all' />
 
 
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
 
 
-<link rel='shortlink' href='../indexd8eb.html?p=17' />
+<link rel='shortlink' href='../../indexd8eb.html?p=17' />
 
 
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedaa3d.json?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F" />
 
 
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embedd604?url=https%3A%2F%2Fwww.javascript:void(0);%2Fmeetings-events%2F&amp;format=xml" />
   <!-- inject:css -->
 <!-- <link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-5997a7ee39.css"> -->
-<link rel="stylesheet" href="../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
-<link rel="stylesheet" type="text/css" href="../assets/css/newstyle.css">
+<link rel="stylesheet" href="../../wp-content/themes/epic-assets/static/css/style-821bd475c3.css">
+<link rel="stylesheet" type="text/css" href="../../assets/css/newstyle.css">
 <!-- prabhat pandit stylesheets starts from here.. on 17/02/2020 !-->
 <style type="text/css">
+  .Padb75
+  {
+    padding-bottom: 75px;
+  }
   .custom-site-header {
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -193,7 +197,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header-base.php");
+include("../../header-base.php");
 ?>
 
 
@@ -201,22 +205,22 @@ include("../header-base.php");
 
 <div class="js-ajax-container" data-namespace="page">
 
-  <main class="page-content">
+  <main class="page-content Padb75">
 
   
 <section class="SecExp">
   <div class="container">
     <h2>PRE-EXPOSURE <br>PROPHYLAXIS (PREP)</h2>
-    <p>At ASP Cares, we understand the importance of preventing and transmitting HIV. Fortunately, PrEP was approved in 2012 and stands for Pre-Exposure Prophylaxis. It means that a medication can be taken for this purpose. PEP stands for Post-ExPosure. It means that a medication regimen can be taken if you have been exposed to HIV.</p>
+    <p>At Epic Pharmacy, we understand the importance of preventing and transmitting HIV. Fortunately, PrEP was approved in 2012 and stands for Pre-Exposure Prophylaxis. It means that a medication can be taken for this purpose. PEP stands for Post-ExPosure. It means that a medication regimen can be taken if you have been exposed to HIV.</p>
     <p>Our pharmacists and nurses are dedicated to helping patients understand prophylaxis and how to access this therapy from a physician. We will provide you with education, help you find a provider and process your prescription through your insurance plan. It’s a simple process and starts with a call to us (1-800-950-2919) and then a visit to a physician who has expertise with PrEP.</p>
-    <p>Consistently since 2012, ASP Cares has been highly recommended by physicians, including Infectious Disease Specialists because of our sincere focus on patients. It’s true, we care about patients, but we are also committed to community advocacy and educating the public about the prevention of HIV.</p>
+    <p>Consistently since 2012, Epic Pharmacy has been highly recommended by physicians, including Infectious Disease Specialists because of our sincere focus on patients. It’s true, we care about patients, but we are also committed to community advocacy and educating the public about the prevention of HIV.</p>
     <hr>
     <div class="row_col">
       <div class="col_4">
         <h4>Medication Access</h4>
       </div>
       <div class="col_8">
-        <p>ASP Cares provides patients with their medication and drug information. It is shipped, without cost, directly to the patient or another route of delivery or pick-up can be coordinated. Our healthcare team is committed to providing the best service, which is both confidential and individualized based on a patients’ specific needs. Whether you will be taking your medication for a short period of time or continuously, we recognize the importance of starting your medication when needed.</p>
+        <p>Epic Pharmacy provides patients with their medication and drug information. It is shipped, without cost, directly to the patient or another route of delivery or pick-up can be coordinated. Our healthcare team is committed to providing the best service, which is both confidential and individualized based on a patients’ specific needs. Whether you will be taking your medication for a short period of time or continuously, we recognize the importance of starting your medication when needed.</p>
       </div>
     </div>
     <hr>
@@ -234,7 +238,7 @@ include("../header-base.php");
         <h4>Medication Delivery</h4>
       </div>
       <div class="col_8">
-        <p>ASP Cares ensures that you receive your medication timely by providing complimentary delivery directly to your home. We can also coordinate other medications as well.</p>
+        <p>Epic Pharmacy ensures that you receive your medication timely by providing complimentary delivery directly to your home. We can also coordinate other medications as well.</p>
       </div>
     </div>
     <hr>
@@ -243,7 +247,7 @@ include("../header-base.php");
         <h4>Support</h4>
       </div>
       <div class="col_8">
-        <p>At ASP Cares, taking this step to start medication for PrEP may create many questions. Our team is here to support you and find the answers you need. Though not intended to replace medical advice from a qualified physician, resource links can provide additional information and support.</p>
+        <p>At Epic Pharmacy, taking this step to start medication for PrEP may create many questions. Our team is here to support you and find the answers you need. Though not intended to replace medical advice from a qualified physician, resource links can provide additional information and support.</p>
       </div>
     </div>
 
@@ -254,34 +258,34 @@ include("../header-base.php");
     <div class="in_imgFix">      
       <div class="minSec">
         <h3>ONLINE SUPPORT LINKS</h3>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
             <p>Center For Disease Control (CDC)/HIV Information</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
             <p>HIV Resources by State</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
             <p>Center for Medicaid and Medicare/Aids Information</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>Government/HIV Information</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>PrEP Information</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>American Academy of HIV Medicine</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>HIV Medicine Association</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>Aids Drug Assistance Program</p>
          </a>
-         <a href="" target="_blank">
+         <a href="javascript:void(0)">
          <p>Aids Information</p>
          </a>
-         <a href="" target="_blank"><p>Truvada </p>
+         <a href="javascript:void(0)"><p>Truvada </p>
          </a>
       </div>
     </div>
@@ -294,7 +298,7 @@ include("../header-base.php");
 
           
           <!-- footer starts here !-->
-             <?php include '../footer.php';?>
+             <?php include '../../footer.php';?>
           <!-- footer ends here !-->
         </div>
 
@@ -313,27 +317,27 @@ include("../header-base.php");
           <ul class="sister-hotel__list">
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/clients-logo.png" width="123" height="51" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl.png" width="122" height="13" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-1.png" width="119" height="28" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-2.png" width="58" height="52" alt="Accreditations" />
               </a>
             </li>
             <li class="sister-hotel__list-item">
               <a href="javascript:void(0);">
-                <img src="../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
+                <img src="../../wp-content/themes/epic-assets/static/img/sister-logos/cl-3.png" width="90" height="44" alt="Accreditations" />
               </a>
             </li>
           </ul>   
@@ -375,8 +379,8 @@ include("../header-base.php");
 
   
   
-<script src="../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
-<script src="../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
+<script src="../../wp-content/themes/epic-assets/static/dist/app-b163a97c46.js" async></script>
+<script src="../../wp-content/themes/epic-assets/static/dist/gpvVDj0ljQ.js"></script>
 
 
   
