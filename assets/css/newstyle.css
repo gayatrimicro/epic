@@ -1,0 +1,100 @@
+ /*---------------------*/
+ .SecExp h2
+ {
+      font-size: 45px;
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 63px;
+ }
+.SecExp p
+{
+	letter-spacing: -.033em;
+    line-height: 1.55;
+    font-size: 1.8rem;
+}
+.SecExp hr
+{
+	margin: 50px 0px;
+}
+.col_4
+{
+	width: 30%;
+    display: inline-block;
+}
+.col_8
+{
+	width: 68%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.in_imgFix{
+	background: url(../../assets/images/hemo-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+.minSec
+{
+	background-color: #fff;
+	text-align: center;
+	padding: 50px 0px;
+}
+.minSec h3
+{
+	font-size: 28px;
+    margin-bottom: 30px;
+}
+.minSec a
+{
+	display: block;
+	margin-bottom: 15px;
+	text-decoration: underline;
+}
+.minSec a:after
+{
+	background-color: transparent;
+}
+.minSec a:hover:before {
+    transform: scaleX(0);
+}
+.SecExpFix
+{
+	margin-top: 70px;
+}
+
+@media(min-width: 320px) and (max-width: 767px){
+.SecExp h2 {
+font-size: 24px;
+margin-bottom: 20px;
+line-height: 36px;
+}
+.col_4 {
+    width: 100%;
+    display: block;
+    margin-bottom: 25px;
+}
+.col_8 {
+    width: 100%;
+    display: block;
+}
+.SecExp hr {
+    margin: 30px 0px;
+}
+.SecExp h4
+{
+	font-size: 22px;
+}
+.SecExpFix .container
+{
+	padding: 0px;
+}
+.in_imgFix {
+    padding: 20px;
+}
+.minSec h3 {
+    font-size: 22px;
+}
+
+}
+
+ /*---------------------*/
