@@ -242,9 +242,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <li>
                               <h4><a href="specialties/gastroenterology/" style="text-decoration: none !important;">Gastroenterology </a></h4>
                            </li>
-                           <li>
-                              <h4><a href="specialties/prep/" style="text-decoration: none !important;">Prep </a></h4>
-                           </li>
                         </ul>
                         <a href='specialties/' role='link' aria-label='Have a question?' class='button js-block' data-block='button-block'  rel='noopener noreferrer'>
                         <span><span>V</span><span>i</span><span>e</span><span>w</span><span> </span><span>a</span><span>l</span><span>l</span><span> </span><span>S</span><span>p</span><span>e</span><span>c</span><span>i</span><span>a</span><span>l</span><span>t</span><span>i</span><span>e</span><span>s</span></span><span><span>V</span><span>i</span><span>e</span><span>w</span><span> </span><span>a</span><span>l</span><span>l</span><span> </span><span>S</span><span>p</span><span>e</span><span>c</span><span>i</span><span>a</span><span>l</span><span>t</span><span>i</span><span>e</span><span>s</span></span>

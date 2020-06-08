@@ -321,12 +321,38 @@ include("../header-base.php");
                      
                      <div class="listing-blocks__inner col m12 tp8 t6 d4">
                         <h4 class="listing-blocks__subheading"></h4>
-                        <h3 class="listing-blocks__heading">Financial Assistance</h3>
+                        <h3 class="listing-blocks__heading">PRE-EXPOSURE PROPHYLAXIS (PREP)</h3>
                         <div class="listing-blocks__content">
-                           <p>Epic Pharmacy is unmatched when it comes to the dedicated community of support we provide patients in the management of their complex health conditions. This includes a serious commitment to finding ways to reduce the financial burden on you. We proudly offer you access to a team of professionals who are dedicated to building relationships with various assistance programs and initiatives to ensure you get your medications at the lowest possible cost.
+                           <p>At Epic Pharmacy, we understand the importance of preventing and transmitting HIV. Fortunately, PrEP was approved in 2012 and stands for Pre-Exposure Prophylaxis. It means that a medication can be taken for this purpose. PEP stands for Post-ExPosure. It means that a medication regimen can be taken if you have been exposed to HIV.
                            </p>
+                           <a href='prep' role='link' aria-label='Have a question?' class='button js-block' data-block='button-block'  rel='noopener noreferrer' target='_blank' >
+
+                            <span><span>K</span><span>N</span><span>O</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></span>
+
+
+
+                              <span><span>K</span><span>N</span><span>O</span><span>W</span><span> </span><span>M</span><span>O</span><span>R</span><span>E</span></span>
+
+                            </a>
                         </div>
                      </div>
+                     <div class="listing-blocks__fig-container col m12 t6 d4">
+                        <div class="listing-blocks__fig-wrapper">
+                           <div class="listing-blocks__fig-inner">
+                              <figure class="listing-blocks__fig cover cover--all">
+                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/prepM.jpg' data-srcset='../assets/images/prepM.jpg 750w, ../assets/images/prepM.jpg 1200w, ' alt='Financial Assistance' width='800' height='800'  data-pin-nopin='true' data-object-fit />            
+                              </figure>
+                           </div>
+                          
+                        </div>
+                     </div>
+
+                  </div>
+               </div>
+            </li>
+            <li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
+               <div class="listing-blocks__wrapper">
+                  <div class="cols">
                      <div class="listing-blocks__fig-container col m12 t6 d4">
                         <div class="listing-blocks__fig-wrapper">
                            <div class="listing-blocks__fig-inner">
@@ -337,6 +363,14 @@ include("../header-base.php");
                           
                         </div>
                      </div>
+                     <div class="listing-blocks__inner col m12 tp8 t6 d4">
+                        <h4 class="listing-blocks__subheading"></h4>
+                        <h3 class="listing-blocks__heading">Financial Assistance</h3>
+                        <div class="listing-blocks__content">
+                           <p>Epic Pharmacy is unmatched when it comes to the dedicated community of support we provide patients in the management of their complex health conditions. This includes a serious commitment to finding ways to reduce the financial burden on you. We proudly offer you access to a team of professionals who are dedicated to building relationships with various assistance programs and initiatives to ensure you get your medications at the lowest possible cost.
+                           </p>
+                        </div>
+                     </div>                     
 
                   </div>
                </div>
@@ -345,15 +379,7 @@ include("../header-base.php");
             <li class="listing-blocks__item col m12" data-layout="col" data-anim="false">
                <div class="listing-blocks__wrapper">
                   <div class="cols">
-                     <div class="listing-blocks__fig-container col m12 t6 d4">
-                        <div class="listing-blocks__fig-wrapper">
-                           <div class="listing-blocks__fig-inner">
-                              <figure class="listing-blocks__fig cover cover--all">
-                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/services-pep.jpg' data-srcset='../assets/images/services-pep.jpg 750w, ../assets/images/services-pep.jpg 1200w, ' alt='Patient Assistance Program (PAP)' width='800' height='800'  data-pin-nopin='true' data-object-fit />              
-                              </figure>
-                           </div>
-                        </div>
-                     </div>
+                     
                      <div class="listing-blocks__inner col m12 tp8 t6 d4">
                         <h4 class="listing-blocks__subheading"></h4>
                         <h3 class="listing-blocks__heading">Patient Assistance Program (PAP)</h3>
@@ -374,6 +400,15 @@ include("../header-base.php");
                             </a>
 
 
+                        </div>
+                     </div>
+                     <div class="listing-blocks__fig-container col m12 t6 d4">
+                        <div class="listing-blocks__fig-wrapper">
+                           <div class="listing-blocks__fig-inner">
+                              <figure class="listing-blocks__fig cover cover--all">
+                                 <img class='lazyload' data-sizes='auto' data-lowsrc='../assets/images/services-pep.jpg' data-srcset='../assets/images/services-pep.jpg 750w, ../assets/images/services-pep.jpg 1200w, ' alt='Patient Assistance Program (PAP)' width='800' height='800'  data-pin-nopin='true' data-object-fit />              
+                              </figure>
+                           </div>
                         </div>
                      </div>
                   </div>

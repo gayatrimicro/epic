@@ -392,7 +392,7 @@ include("../header-base.php");
   </div>
 </li> -->
 
-<li class="listing-blocks__item col m12 t6 d6" data-layout="row" data-anim="false">
+<!-- <li class="listing-blocks__item col m12 t6 d6" data-layout="row" data-anim="false">
   <div class="listing-blocks__wrapper">
     <div class="cols">
       <div class="listing-blocks__fig-container col m12">
@@ -418,7 +418,7 @@ include("../header-base.php");
         </div>
     </div>
   </div>
-</li>
+</li> -->
                       
 <li class="listing-blocks__item col m12 t6 d6" data-layout="row" data-anim="false">
   <div class="listing-blocks__wrapper">
