@@ -20,31 +20,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta name="google-site-verification" content="A-llZMVa8hZh-UpSwLh1pVOmWUxxhd8MrBf7OTQjtEE" />
  
-  <title>Medical Store Services | Epic Pharmacy</title>
+  <title>Pre-exposure prophylaxis (PrEP) | HIV Prevention | Epic Pharmacy</title>
+  <meta name="description" content="To prevent HIV, Epic Pharmacy offers PrEP that helps reduce the risk of getting infected by HIV. For more details call on Toll-Free number 888-688-0054." >
 
-  <meta name="description" content="Chemist Home Delivery Services. Call 888-688-0054 toll-free for specialty prescription drugs." >
-
-  <meta name="keywords" content="instant online medicine delivery near me, online medical shop, online drugstore, epic pharmacy drugstore in oklahoma, medical services">
-
+  <meta name="keywords" content="Pre-exposure prophylaxis, PrEP, HIV/AIDS, HIV Prevention, HIV medications, Truvada">
 
   <meta property="og:locale" content="en_US">
   <meta name="og:site_name" content="Epic Pharmacy"/>
   <meta property="og:type" content="Website">
-  <meta property="og:title" content="Medical Store Services | Epic Pharmacy">
-  <meta property="og:description" content="Chemist Home Delivery Services. Call 888-688-0054 toll-free for specialty prescription drugs.">
+  <meta property="og:title" content="Pre-exposure prophylaxis (PrEP) | HIV Prevention | Epic Pharmacy">
+  <meta property="og:description" content="To prevent HIV, Epic Pharmacy offers PrEP that helps reduce the risk of getting infected by HIV. For more details call on Toll-Free number 888-688-0054.">
   <meta property="og:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta property="og:url" content="https://epicpharmacyokc.com/services/">
+  <meta property="og:url" content="https://epicpharmacyokc.com/services/prep/">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Medical Store Services | Epic Pharmacy">
-  <meta name="twitter:description" content="Chemist Home Delivery Services. Call 888-688-0054 toll-free for specialty prescription drugs.">
+  <meta name="twitter:title" content="Pre-exposure prophylaxis (PrEP) | HIV Prevention | Epic Pharmacy">
+  <meta name="twitter:description" content="To prevent HIV, Epic Pharmacy offers PrEP that helps reduce the risk of getting infected by HIV. For more details call on Toll-Free number 888-688-0054.">
   <meta name="twitter:image" content="https://epicpharmacyokc.com/assets/images/center-mobile.jpg">
-  <meta name="twitter:url" content="https://epicpharmacyokc.com/services/">
+  <meta name="twitter:url" content="https://epicpharmacyokc.com/services/prep/">
 
   <meta name="robots" content="index, follow" />
 
-  <link rel="canonical" href="https://epicpharmacyokc.com/services/">
-  <link rel="alternate" href="https://epicpharmacyokc.com/services/" hreflang="en-us" />
+  <link rel="canonical" href="https://epicpharmacyokc.com/services/prep/">
+  <link rel="alternate" href="https://epicpharmacyokc.com/services/prep/" hreflang="en-us" />
 
   <link rel="apple-touch-icon" href="../../wp-content/themes/epic-assets/static/favicon/Epic-Logo.png">
 
