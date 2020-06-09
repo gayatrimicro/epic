@@ -256,34 +256,34 @@ include("../../header-base.php");
     <div class="in_imgFix">      
       <div class="minSec">
         <h3>ONLINE SUPPORT LINKS</h3>
-         <a href="javascript:void(0)">
+         <a href="https://www.cdc.gov/hiv/default.html" target="_blank">
             <p>Center For Disease Control (CDC)/HIV Information</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="https://www.cdc.gov/stophivtogether/campaigns/hiv-treatment-works/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Factagainstaids%2Fcampaigns%2Fhivtreatmentworks%2Findex.html" target="_blank">
             <p>HIV Resources by State</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="https://www.cms.gov/Outreach-and-Education/Outreach/HIVAIDSRes/index" target="_blank">
             <p>Center for Medicaid and Medicare/Aids Information</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="https://www.hiv.gov/" target="_blank">
          <p>Government/HIV Information</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="http://www.whatisprep.org/" target="_blank">
          <p>PrEP Information</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="https://aahivm.org/" target="_blank">
          <p>American Academy of HIV Medicine</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="https://www.hivma.org/Home.aspx" target="_blank">
          <p>HIV Medicine Association</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="http://adap.directory/" target="_blank">
          <p>Aids Drug Assistance Program</p>
          </a>
-         <a href="javascript:void(0)">
+         <a href="http://aidsinfonet.org/fact_sheets/view/403%20Aids%20Information" target="_blank">
          <p>Aids Information</p>
          </a>
-         <a href="javascript:void(0)"><p>Truvada </p>
+         <a href="https://www.truvada.com/?utm_medium=cpc&utm_campaign=2018+Branded+Learn+About+A+Gilead+Medication+-+Truvada_East_EVG&utm_content=Truvada_KW_Exact&utm_term=Truvada&moc=5601000003&utm_source=google&gclid=EAIaIQobChMI2aOigcDC3QIVQtbACh276QwYEAAYASAAEgLYH_D_BwE&gclsrc=aw.ds" target="_blank"><p>Truvada </p>
          </a>
       </div>
     </div>

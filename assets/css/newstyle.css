@@ -48,7 +48,8 @@
 {
 	display: block;
 	margin-bottom: 15px;
-    cursor: default;
+    cursor: pointer;
+    text-decoration: underline;
 }
 .minSec a:hover
 {
